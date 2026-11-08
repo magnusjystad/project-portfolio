@@ -1,0 +1,21 @@
+{
+  "factor_start": "1963-07-31",
+  "factor_end": "2026-08-31",
+  "n_factor": 758,
+  "reg_start": "2013-08-31",
+  "reg_end": "2026-08-31",
+  "n_reg": 157,
+  "n_recession": 85,
+  "n_infl": 255,
+  "n_rec_sample": 758,
+  "n_infl_sample": 757,
+  "A5": {
+    "HML cum. return Jan 2007 - Dec 2020": -0.5581771977369079,
+    "HML ann. return Jan 2007 - Dec 2020": -0.05667665913904196,
+    "HML peak-to-trough in the period": -0.5748812328369062,
+    "Trough month": "2020-09-30",
+    "HML cum. return Jan 2021 - Aug 2026": 0.5376549728672606,
+    "Share of 2007-2020 loss recovered": 0.4255785218852065,
+    "HML ann. return Jul 1963 - Dec 2006": 0.0537975047961996
+  }
+}

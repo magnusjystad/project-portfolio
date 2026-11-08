@@ -1,0 +1,4 @@
+,Checks passed,Checks
+ANWPX,3,Growth-leaning: HML loading <= 0: yes; Quality/large multinationals: RMW >= 0: no; Mostly developed markets (EM weight <= ACWI): yes; Diversified multi-manager book: top-10 < 40%: yes
+DODWX,4,"Value: HML loading > 0: yes; Value is statistically significant: t(HML) > 2: yes; Contrarian, not momentum: Mom loading <= 0: yes; Underweight expensive growth sector IT: yes"
+PRGSX,2,Growth: HML loading < 0: yes; Growth is statistically significant: t(HML) < -2: no; High-quality companies: RMW loading >= 0: no; Large- and mid-cap focus: SMB loading <= 0: yes

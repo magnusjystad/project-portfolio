@@ -1,0 +1,15 @@
+{
+  "best_active": "DODWX",
+  "ir_best": -0.09131492119599692,
+  "recommend": "ACWI",
+  "weights": {
+    "Performance": 0.25,
+    "People": 0.2,
+    "Process": 0.2,
+    "Price": 0.2,
+    "Portfolio": 0.15
+  },
+  "returns_start": "2016-10-31",
+  "returns_end": "2026-09-30",
+  "reg_end": "2026-08-31"
+}

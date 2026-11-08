@@ -1,0 +1,78 @@
+{
+  "FCNTX": {
+    "2025-12-31": {
+      "series_name": "Fidelity Contrafund",
+      "series_id": "S000006037",
+      "rep_pd_date": "2025-12-31",
+      "total_assets": "176729778093.13",
+      "net_assets": "176319409234.39",
+      "accession": "0000035402-26-001161"
+    },
+    "2025-09-30": {
+      "series_name": "Fidelity Contrafund",
+      "series_id": "S000006037",
+      "rep_pd_date": "2025-09-30",
+      "total_assets": "176134532422.75",
+      "net_assets": "175536248854.04",
+      "accession": "0000035402-25-002136"
+    },
+    "2025-06-30": {
+      "series_name": "Fidelity Contrafund",
+      "series_id": "S000006037",
+      "rep_pd_date": "2025-06-30",
+      "total_assets": "166757284299.12",
+      "net_assets": "166650291270.00",
+      "accession": "0001752724-25-198459"
+    },
+    "2025-03-31": {
+      "series_name": "Fidelity Contrafund",
+      "series_id": "S000006037",
+      "rep_pd_date": "2025-03-31",
+      "total_assets": "145289249670.81",
+      "net_assets": "144955065723.49",
+      "accession": "0001752724-25-121849"
+    },
+    "2024-12-31": {
+      "series_name": "Fidelity Contrafund",
+      "series_id": "S000006037",
+      "rep_pd_date": "2024-12-31",
+      "total_assets": "153206355349.63",
+      "net_assets": "152996375237.49",
+      "accession": "0001752724-25-037255"
+    }
+  },
+  "IVV": {
+    "2025-09-30": {
+      "series_name": "iShares Core S&P 500 ETF",
+      "series_id": "S000004310",
+      "rep_pd_date": "2025-09-30",
+      "total_assets": "703961349256.41",
+      "net_assets": "701369339021.20",
+      "accession": "0002071691-26-015790"
+    },
+    "2025-06-30": {
+      "series_name": "iShares Core S&P 500 ETF",
+      "series_id": "S000004310",
+      "rep_pd_date": "2025-06-30",
+      "total_assets": "625982801842.18",
+      "net_assets": "622808937085.99",
+      "accession": "0001752724-25-210389"
+    },
+    "2025-03-31": {
+      "series_name": "iShares Core S&P 500 ETF",
+      "series_id": "S000004310",
+      "rep_pd_date": "2025-03-31",
+      "total_assets": "582813514719.20",
+      "net_assets": "579866455620.29",
+      "accession": "0001752724-25-119791"
+    },
+    "2024-12-31": {
+      "series_name": "iShares Core S&P 500 ETF",
+      "series_id": "S000004310",
+      "rep_pd_date": "2024-12-31",
+      "total_assets": "589514119328.53",
+      "net_assets": "585743415248.36",
+      "accession": "0001752724-25-043800"
+    }
+  }
+}

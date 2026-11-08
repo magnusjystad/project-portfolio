@@ -1,0 +1,4772 @@
+{
+"US37045V1008": {
+"ticker": "GM",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"US19247G1076": {
+"ticker": "COHR",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"JP3639650005": {
+"ticker": "7532.T",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"GB00B0SWJX34": {
+"ticker": "LSEG.L",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"CA7397211086": {
+"ticker": "PSK.TO",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US30161Q1040": {
+"ticker": "EXEL",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US3666511072": {
+"ticker": "IT",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US22160K1051": {
+"ticker": "COST",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"JP3802300008": {
+"ticker": "9983.T",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US6819191064": {
+"ticker": "OMC",
+"sector": "Communication Services",
+"industry": "Advertising Agencies",
+"quoteType": "EQUITY"
+},
+"US18915M1071": {
+"ticker": "NET",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US7427181091": {
+"ticker": "PG",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"IE00BD1RP616": {
+"ticker": "BIRG.IR",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US0116591092": {
+"ticker": "ALK",
+"sector": "Industrials",
+"industry": "Airlines",
+"quoteType": "EQUITY"
+},
+"US48251W1045": {
+"ticker": "KKR",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US9297401088": {
+"ticker": "WAB",
+"sector": "Industrials",
+"industry": "Railroads",
+"quoteType": "EQUITY"
+},
+"US24703L2025": {
+"ticker": "DELL",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US3802371076": {
+"ticker": "GDDY",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US2561631068": {
+"ticker": "DOCU",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US7802593050": {
+"ticker": "SHEL",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"US91307C1027": {
+"ticker": "UTHR",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - Specialty & Generic",
+"quoteType": "EQUITY"
+},
+"US4601461035": {
+"ticker": "IP",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US36828A1016": {
+"ticker": "GEV",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US0378331005": {
+"ticker": "AAPL",
+"sector": "Technology",
+"industry": "Consumer Electronics",
+"quoteType": "EQUITY"
+},
+"US7731221062": {
+"ticker": "RKLB",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"FR0000121667": {
+"ticker": "EL.PA",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US88339J1051": {
+"ticker": "TTD",
+"sector": "Communication Services",
+"industry": "Advertising Agencies",
+"quoteType": "EQUITY"
+},
+"US0326541051": {
+"ticker": "ADI",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US5312297550": {
+"ticker": "FWONK",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"ES0113900J37": {
+"ticker": "SAN.MC",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US92338C1036": {
+"ticker": "VLTO",
+"sector": "Industrials",
+"industry": "Pollution & Treatment Controls",
+"quoteType": "EQUITY"
+},
+"US8725901040": {
+"ticker": "TMUS",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US0079031078": {
+"ticker": "AMD",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US0231351067": {
+"ticker": "AMZN",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US8636671013": {
+"ticker": "SYK",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US0320951017": {
+"ticker": "APH",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US8425871071": {
+"ticker": "SO",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"CA25675T1075": {
+"ticker": "DOL.TO",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US5949181045": {
+"ticker": "MSFT",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US95040Q1040": {
+"ticker": "WELL",
+"sector": "Real Estate",
+"industry": "REIT - Healthcare Facilities",
+"quoteType": "EQUITY"
+},
+"US81762P1021": {
+"ticker": "NOW",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US46579R2031": {
+"ticker": "IVN.TO",
+"sector": "Basic Materials",
+"industry": "Other Industrial Metals & Mining",
+"quoteType": "EQUITY"
+},
+"US31946M1036": {
+"ticker": "FCNCA",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"CH1134540470": {
+"ticker": "ONON",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"US02079K1079": {
+"ticker": "GOOG",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"JP3122400009": {
+"ticker": "6857.T",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"US05464C1018": {
+"ticker": "AXON",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US7433151039": {
+"ticker": "PGR",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"IL0011301780": {
+"ticker": "WIX",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"IE00B4BNMY34": {
+"ticker": "ACN",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US78409V1044": {
+"ticker": "SPGI",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US92826C8394": {
+"ticker": "V",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"JP3900000005": {
+"ticker": "7011.T",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US9113631090": {
+"ticker": "URI",
+"sector": "Industrials",
+"industry": "Rental & Leasing Services",
+"quoteType": "EQUITY"
+},
+"US38141G1040": {
+"ticker": "GS",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US14040H1059": {
+"ticker": "COF",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US88579Y1010": {
+"ticker": "MMM",
+"sector": "Industrials",
+"industry": "Conglomerates",
+"quoteType": "EQUITY"
+},
+"US8581191009": {
+"ticker": "STLD",
+"sector": "Basic Materials",
+"industry": "Steel",
+"quoteType": "EQUITY"
+},
+"US0494681010": {
+"ticker": "TEAM",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US75886F1075": {
+"ticker": "REGN",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US30303M1027": {
+"ticker": "META",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US03769M1062": {
+"ticker": "APO",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US12504L1098": {
+"ticker": "CBRE",
+"sector": "Real Estate",
+"industry": "Real Estate Services",
+"quoteType": "EQUITY"
+},
+"US8085131055": {
+"ticker": "SCHW",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"IL0010824113": {
+"ticker": "CHKP",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US23804L1035": {
+"ticker": "DDOG",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"CH0044328745": {
+"ticker": "CB",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US2441991054": {
+"ticker": "DE",
+"sector": "Industrials",
+"industry": "Farm & Heavy Construction Machinery",
+"quoteType": "EQUITY"
+},
+"CA0115321089": {
+"ticker": "AGI.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US0640581007": {
+"ticker": "BNY",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US6937181088": {
+"ticker": "PCAR",
+"sector": "Industrials",
+"industry": "Farm & Heavy Construction Machinery",
+"quoteType": "EQUITY"
+},
+"US40412C1018": {
+"ticker": "HCA",
+"sector": "Healthcare",
+"industry": "Medical Care Facilities",
+"quoteType": "EQUITY"
+},
+"US0255371017": {
+"ticker": "AEP",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"KYG6683N1034": {
+"ticker": "NU",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US1999081045": {
+"ticker": "FIX",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"US14448C1045": {
+"ticker": "CARR",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"JP3893600001": {
+"ticker": "8031.T",
+"sector": "Industrials",
+"industry": "Conglomerates",
+"quoteType": "EQUITY"
+},
+"US9182041080": {
+"ticker": "VFC",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Manufacturing",
+"quoteType": "EQUITY"
+},
+"US2166485019": {
+"ticker": "COO",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US58933Y1055": {
+"ticker": "MRK",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"LR0008862868": {
+"ticker": "RCL",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"IE00BWT6H894": {
+"ticker": "FLUT",
+"sector": "Consumer Cyclical",
+"industry": "Gambling",
+"quoteType": "EQUITY"
+},
+"US0846701086": {
+"ticker": "BRK-A",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US5312297220": {
+"ticker": "LLYVK",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US4228061093": {
+"ticker": "HEI",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"AU0000153280": {
+"ticker": "CNQ.AX",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Water",
+"quoteType": "EQUITY"
+},
+"US92537N1081": {
+"ticker": "VRT",
+"sector": "Industrials",
+"industry": "Electrical Equipment & Parts",
+"quoteType": "EQUITY"
+},
+"US2533931026": {
+"ticker": "DKS",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US7547301090": {
+"ticker": "RJF",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"CNE100000296": {
+"ticker": "1211.HK",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"US45687V1061": {
+"ticker": "IR",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US0420682058": {
+"ticker": "ARM",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US68389X1054": {
+"ticker": "ORCL",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"CA21037X1006": {
+"ticker": "CSU.TO",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US04016X1019": {
+"ticker": "ARGX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US0091581068": {
+"ticker": "APD",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US23331A1097": {
+"ticker": "DHI",
+"sector": "Consumer Cyclical",
+"industry": "Residential Construction",
+"quoteType": "EQUITY"
+},
+"US6098391054": {
+"ticker": "MPWR",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US7835132033": {
+"ticker": "RYAAY",
+"sector": "Industrials",
+"industry": "Airlines",
+"quoteType": "EQUITY"
+},
+"US9892071054": {
+"ticker": "ZBRA",
+"sector": "Technology",
+"industry": "Communication Equipment",
+"quoteType": "EQUITY"
+},
+"JP3143600009": {
+"ticker": "8001.T",
+"sector": "Industrials",
+"industry": "Conglomerates",
+"quoteType": "EQUITY"
+},
+"US04626A1034": {
+"ticker": "ALAB",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US1844961078": {
+"ticker": "CLH",
+"sector": "Industrials",
+"industry": "Waste Management",
+"quoteType": "EQUITY"
+},
+"US6293775085": {
+"ticker": "NRG",
+"sector": "Utilities",
+"industry": "Utilities - Independent Power Producers",
+"quoteType": "EQUITY"
+},
+"US3647601083": {
+"ticker": "GAP",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US8552441094": {
+"ticker": "SBUX",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US49845K1016": {
+"ticker": "KVYO",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US4435106079": {
+"ticker": "HUBB",
+"sector": "Industrials",
+"industry": "Electrical Equipment & Parts",
+"quoteType": "EQUITY"
+},
+"US8725401090": {
+"ticker": "TJX",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US1489291021": {
+"ticker": "CAVA",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US03831W1080": {
+"ticker": "APP",
+"sector": "Communication Services",
+"industry": "Advertising Agencies",
+"quoteType": "EQUITY"
+},
+"US3989051095": {
+"ticker": "GPI",
+"sector": "Consumer Cyclical",
+"industry": "Auto & Truck Dealerships",
+"quoteType": "EQUITY"
+},
+"US5717481023": {
+"ticker": "MRSH",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"US07831C1036": {
+"ticker": "BRBR",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"CA45823T1066": {
+"ticker": "IFC.TO",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US88160R1014": {
+"ticker": "TSLA",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"US8010561020": {
+"ticker": "SANM",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US69331C1080": {
+"ticker": "PCG",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US1714841087": {
+"ticker": "CHDN",
+"sector": "Consumer Cyclical",
+"industry": "Gambling",
+"quoteType": "EQUITY"
+},
+"US70439P1084": {
+"ticker": "PAY",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US4435731009": {
+"ticker": "HUBS",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US7811541090": {
+"ticker": "RBRK",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"CA15101Q2071": {
+"ticker": "CLS.TO",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US5738741041": {
+"ticker": "MRVL",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"LU1778762911": {
+"ticker": "SPOT",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US74276L1052": {
+"ticker": "PRCT",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"IE00BDB6Q211": {
+"ticker": "WTW",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"US9311421039": {
+"ticker": "WMT",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US0268747849": {
+"ticker": "AIG",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US47103J1051": {
+"ticker": "JANX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US1729081059": {
+"ticker": "CTAS",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US5380341090": {
+"ticker": "LYV",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US09857L1089": {
+"ticker": "BKNG",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"CA11777Q2099": {
+"ticker": "BTO.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"BMG93A5A1010": {
+"ticker": "VIK",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US3795772082": {
+"ticker": "GMED",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US01741R1023": {
+"ticker": "ATI",
+"sector": "Industrials",
+"industry": "Metal Fabrication",
+"quoteType": "EQUITY"
+},
+"IE00B8KQN827": {
+"ticker": "ETN",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US7010941042": {
+"ticker": "PH",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US70450Y1038": {
+"ticker": "PYPL",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US3635761097": {
+"ticker": "AJG",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"IL0011762130": {
+"ticker": "MNDY",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US26603R1068": {
+"ticker": "DUOL",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US67103H1077": {
+"ticker": "ORLY",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"US1273871087": {
+"ticker": "CDNS",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"IL0011794802": {
+"ticker": "CLBT",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US60770K1079": {
+"ticker": "MRNA",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US1475281036": {
+"ticker": "CASY",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US81764X1037": {
+"ticker": "TTAN",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"CA5503711080": {
+"ticker": "LUG.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US7458671010": {
+"ticker": "PHM",
+"sector": "Consumer Cyclical",
+"industry": "Residential Construction",
+"quoteType": "EQUITY"
+},
+"US8826811098": {
+"ticker": "TXRH",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US1011371077": {
+"ticker": "BSX",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US3377381088": {
+"ticker": "FISV",
+"sector": null,
+"industry": null,
+"quoteType": "EQUITY"
+},
+"US5324571083": {
+"ticker": "LLY",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US8887871080": {
+"ticker": "TOST",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US92345Y1064": {
+"ticker": "VRSK",
+"sector": "Industrials",
+"industry": "Consulting Services",
+"quoteType": "EQUITY"
+},
+"US34959E1091": {
+"ticker": "FTNT",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US8936411003": {
+"ticker": "TDG",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US1912161007": {
+"ticker": "KO",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Non-Alcoholic",
+"quoteType": "EQUITY"
+},
+"US35671D8570": {
+"ticker": "FCX",
+"sector": "Basic Materials",
+"industry": "Copper",
+"quoteType": "EQUITY"
+},
+"US0028962076": {
+"ticker": "ANF",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US29084Q1004": {
+"ticker": "EME",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"CA46579R1047": {
+"ticker": "IVN.TO",
+"sector": "Basic Materials",
+"industry": "Other Industrial Metals & Mining",
+"quoteType": "EQUITY"
+},
+"US3696043013": {
+"ticker": "GE",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US11135F1012": {
+"ticker": "AVGO",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US18467V1098": {
+"ticker": "YOU",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"DE000A1EWWW0": {
+"ticker": "ADS.DE",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"US1491231015": {
+"ticker": "CAT",
+"sector": "Industrials",
+"industry": "Farm & Heavy Construction Machinery",
+"quoteType": "EQUITY"
+},
+"US50155Q1004": {
+"ticker": "KD",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US1729674242": {
+"ticker": "C",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US16679L1098": {
+"ticker": "CHWY",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"CH0244767585": {
+"ticker": "UBSG.SW",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US8243481061": {
+"ticker": "SHW",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US56585A1025": {
+"ticker": "MPC",
+"sector": "Energy",
+"industry": "Oil & Gas Refining & Marketing",
+"quoteType": "EQUITY"
+},
+"CA13646K1084": {
+"ticker": "CP.TO",
+"sector": "Industrials",
+"industry": "Railroads",
+"quoteType": "EQUITY"
+},
+"US46120E6023": {
+"ticker": "ISRG",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"IE0001827041": {
+"ticker": "CRH",
+"sector": "Basic Materials",
+"industry": "Building Materials",
+"quoteType": "EQUITY"
+},
+"CA1130041058": {
+"ticker": "BAM.TO",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"NL0012969182": {
+"ticker": "ADYEN.AS",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US26701L1008": {
+"ticker": "BROS",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US88033G4073": {
+"ticker": "THC",
+"sector": "Healthcare",
+"industry": "Medical Care Facilities",
+"quoteType": "EQUITY"
+},
+"US79466L3024": {
+"ticker": "CRM",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"JP3118000003": {
+"ticker": "7936.T",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"IE00BK9ZQ967": {
+"ticker": "TT",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"CA11271J1075": {
+"ticker": "BN.TO",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"KYG3323L1005": {
+"ticker": "FN",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US8522341036": {
+"ticker": "XYZ",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US8740391003": {
+"ticker": "TSM",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US75629V1044": {
+"ticker": "RXRX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US09260D1072": {
+"ticker": "BX",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"KYG3730V1059": {
+"ticker": "FTAI",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"CA36168Q1046": {
+"ticker": "GFL.TO",
+"sector": "Industrials",
+"industry": "Waste Management",
+"quoteType": "EQUITY"
+},
+"US26142V1052": {
+"ticker": "DKNG",
+"sector": "Consumer Cyclical",
+"industry": "Gambling",
+"quoteType": "EQUITY"
+},
+"US92532F1003": {
+"ticker": "VRTX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"JE00BS44BN30": {
+"ticker": "BIRK",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"US9699041011": {
+"ticker": "WSM",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US3773221029": {
+"ticker": "GKOS",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US05722G1004": {
+"ticker": "BKR",
+"sector": "Energy",
+"industry": "Oil & Gas Equipment & Services",
+"quoteType": "EQUITY"
+},
+"US6974351057": {
+"ticker": "PANW",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US6323071042": {
+"ticker": "NTRA",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US70432V1026": {
+"ticker": "PAYC",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US21037T1097": {
+"ticker": "CEG",
+"sector": "Utilities",
+"industry": "Utilities - Independent Power Producers",
+"quoteType": "EQUITY"
+},
+"US58733R1023": {
+"ticker": "MELI",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US26622P1075": {
+"ticker": "DOCS",
+"sector": "Healthcare",
+"industry": "Health Information Services",
+"quoteType": "EQUITY"
+},
+"US0970231058": {
+"ticker": "BA",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"CA3039011026": {
+"ticker": "FFH.TO",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"BE0003739530": {
+"ticker": "UCB.BR",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US3687361044": {
+"ticker": "GNRC",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"CA82509L1076": {
+"ticker": "SHOP.TO",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"KR7005380001": {
+"ticker": "005380.KS",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"US0404132054": {
+"ticker": "ANET",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US4432011082": {
+"ticker": "HWM",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US64110L1061": {
+"ticker": "NFLX",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US89417E1091": {
+"ticker": "TRV",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US02043Q1076": {
+"ticker": "ALNY",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US90138F1021": {
+"ticker": "TWLO",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US6174464486": {
+"ticker": "MS",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"CA13321L1085": {
+"ticker": "CCJ",
+"sector": "Energy",
+"industry": "Uranium",
+"quoteType": "EQUITY"
+},
+"JP3788600009": {
+"ticker": "6501.T",
+"sector": "Industrials",
+"industry": "Conglomerates",
+"quoteType": "EQUITY"
+},
+"AU0000143729": {
+"ticker": "SRL.AX",
+"sector": "Industrials",
+"industry": "Pollution & Treatment Controls",
+"quoteType": "EQUITY"
+},
+"CH0114405324": {
+"ticker": "GRMN",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"US8270481091": {
+"ticker": "SLGN",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"CA1363851017": {
+"ticker": "CNQ.TO",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US55354G1004": {
+"ticker": "MSCI",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US1696561059": {
+"ticker": "CMG",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US6200763075": {
+"ticker": "MSI",
+"sector": "Technology",
+"industry": "Communication Equipment",
+"quoteType": "EQUITY"
+},
+"US0382221051": {
+"ticker": "AMAT",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"US3032501047": {
+"ticker": "FICO",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US7710491033": {
+"ticker": "RBLX",
+"sector": "Communication Services",
+"industry": "Electronic Gaming & Multimedia",
+"quoteType": "EQUITY"
+},
+"US67066G1040": {
+"ticker": "NVDA",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US53947R1059": {
+"ticker": "LOAR",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US03783C1009": {
+"ticker": "APPF",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"CA01626P1484": {
+"ticker": "ATD.TO",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"KYG596691041": {
+"ticker": "3690.HK",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US9224751084": {
+"ticker": "VEEV",
+"sector": "Healthcare",
+"industry": "Health Information Services",
+"quoteType": "EQUITY"
+},
+"US46625H1005": {
+"ticker": "JPM",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US57636Q1040": {
+"ticker": "MA",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US98980L1017": {
+"ticker": "ZM",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US9497461015": {
+"ticker": "WFC",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"NL0015000IY2": {
+"ticker": "UMG.AS",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US9837931008": {
+"ticker": "XPO",
+"sector": "Industrials",
+"industry": "Trucking",
+"quoteType": "EQUITY"
+},
+"US0605051046": {
+"ticker": "BAC",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US24823R1059": {
+"ticker": "DNLI",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"CA66987E2069": {
+"ticker": "NG.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US5253271028": {
+"ticker": "LDOS",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US10950A1060": {
+"ticker": "BTSG",
+"sector": "Healthcare",
+"industry": "Health Information Services",
+"quoteType": "EQUITY"
+},
+"US0090661010": {
+"ticker": "ABNB",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US4576693075": {
+"ticker": "INSM",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US3848021040": {
+"ticker": "GWW",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US2435371073": {
+"ticker": "DECK",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"US75734B1008": {
+"ticker": "RDDT",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US5260571048": {
+"ticker": "LEN",
+"sector": "Consumer Cyclical",
+"industry": "Residential Construction",
+"quoteType": "EQUITY"
+},
+"KYG0260P1028": {
+"ticker": "AS",
+"sector": "Consumer Cyclical",
+"industry": "Leisure",
+"quoteType": "EQUITY"
+},
+"US01644J1088": {
+"ticker": "ALKT",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US3755581036": {
+"ticker": "GILD",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US91324P1021": {
+"ticker": "UNH",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"CH0432492467": {
+"ticker": "ALC",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US46578C1080": {
+"ticker": "IE",
+"sector": "Basic Materials",
+"industry": "Copper",
+"quoteType": "EQUITY"
+},
+"US9037311076": {
+"ticker": "ULS",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US92686J1060": {
+"ticker": "VKTX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"CA3518581051": {
+"ticker": "FNV.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"CA74935Q1072": {
+"ticker": "RBA",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US79589L1061": {
+"ticker": "IOT",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US52661A1088": {
+"ticker": "DRS",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US82452J1097": {
+"ticker": "FOUR",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US2681501092": {
+"ticker": "DT",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US43300A2033": {
+"ticker": "HLT",
+"sector": "Consumer Cyclical",
+"industry": "Lodging",
+"quoteType": "EQUITY"
+},
+"CA7800871021": {
+"ticker": "RY.TO",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US45784P1012": {
+"ticker": "PODD",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US27579R1041": {
+"ticker": "EWBC",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US92840M1027": {
+"ticker": "VST",
+"sector": "Utilities",
+"industry": "Utilities - Independent Power Producers",
+"quoteType": "EQUITY"
+},
+"US6153691059": {
+"ticker": "MCO",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US0258161092": {
+"ticker": "AXP",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"CA0084741085": {
+"ticker": "AEM.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US7607591002": {
+"ticker": "RSG",
+"sector": "Industrials",
+"industry": "Waste Management",
+"quoteType": "EQUITY"
+},
+"US98887Q1040": {
+"ticker": "ZLAB",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"SE0001515552": {
+"ticker": "INDT.ST",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US02079K3059": {
+"ticker": "GOOGL",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"CA8672241079": {
+"ticker": "SU.TO",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"US90353T1007": {
+"ticker": "UBER",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US16411R2085": {
+"ticker": "LNG",
+"sector": "Energy",
+"industry": "Oil & Gas Midstream",
+"quoteType": "EQUITY"
+},
+"US22266T1097": {
+"ticker": "CPNG",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US45841N1072": {
+"ticker": "IBKR",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"CA9628791027": {
+"ticker": "WPM.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"IE00BLP1HW54": {
+"ticker": "AON",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"US2546871060": {
+"ticker": "DIS",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US7512121010": {
+"ticker": "RL",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Manufacturing",
+"quoteType": "EQUITY"
+},
+"US0028241000": {
+"ticker": "ABT",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US00287Y1091": {
+"ticker": "ABBV",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US01609W1027": {
+"ticker": "BABA",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US0533321024": {
+"ticker": "AZO",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"KYG875721634": {
+"ticker": "0700.HK",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US1442851036": {
+"ticker": "CRS",
+"sector": "Industrials",
+"industry": "Metal Fabrication",
+"quoteType": "EQUITY"
+},
+"US2473617023": {
+"ticker": "DAL",
+"sector": "Industrials",
+"industry": "Airlines",
+"quoteType": "EQUITY"
+},
+"US26875P1012": {
+"ticker": "EOG",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US26884L1098": {
+"ticker": "EQT",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US2788651006": {
+"ticker": "ECL",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"GB0003718474": {
+"ticker": "GAW.L",
+"sector": "Consumer Cyclical",
+"industry": "Leisure",
+"quoteType": "EQUITY"
+},
+"US4592001014": {
+"ticker": "IBM",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US47215P1066": {
+"ticker": "JD",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US4824801009": {
+"ticker": "KLAC",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"CA4969024047": {
+"ticker": "K.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US5184391044": {
+"ticker": "EL",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US5500211090": {
+"ticker": "LULU",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US6811161099": {
+"ticker": "OLLI",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US70975L1070": {
+"ticker": "PEN",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US75524B1044": {
+"ticker": "RBC",
+"sector": "Industrials",
+"industry": "Tools & Accessories",
+"quoteType": "EQUITY"
+},
+"US6792951054": {
+"ticker": "OKTA",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US7766961061": {
+"ticker": "ROP",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"KR7000660001": {
+"ticker": "000660.KS",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US88023U1016": {
+"ticker": "SGI",
+"sector": "Consumer Cyclical",
+"industry": "Furnishings, Fixtures & Appliances",
+"quoteType": "EQUITY"
+},
+"US07725L1026": {
+"ticker": "ONC",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"GB00BDSFG982": {
+"ticker": "FTI",
+"sector": "Energy",
+"industry": "Oil & Gas Equipment & Services",
+"quoteType": "EQUITY"
+},
+"BRBPACUNT006": {
+"ticker": "BPAC11.SA",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US00827B1061": {
+"ticker": "AFRM",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US19260Q1076": {
+"ticker": "COIN",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US35969L1089": {
+"ticker": "YMM",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US9344231041": {
+"ticker": "WBD",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US21873S1087": {
+"ticker": "CRWV",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"CA36270K1021": {
+"ticker": "GMIN.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US8760301072": {
+"ticker": "TPR",
+"sector": "Consumer Cyclical",
+"industry": "Luxury Goods",
+"quoteType": "EQUITY"
+},
+"US16119P1084": {
+"ticker": "CHTR",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"DE0008404005": {
+"ticker": "ALV.DE",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US6311031081": {
+"ticker": "NDAQ",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US4663131039": {
+"ticker": "JBL",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US7802871084": {
+"ticker": "RGLD",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"DE0007164600": {
+"ticker": "SAP.DE",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US4612021034": {
+"ticker": "INTU",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US69608A1088": {
+"ticker": "PLTR",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US22788C1053": {
+"ticker": "CRWD",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"CA8911605092": {
+"ticker": "TD.TO",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"SG9999000020": {
+"ticker": "FLEX",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US03674X1063": {
+"ticker": "AR",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US03938L2034": {
+"ticker": "MT",
+"sector": "Basic Materials",
+"industry": "Steel",
+"quoteType": "EQUITY"
+},
+"FR0014004L86": {
+"ticker": "AM.PA",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US0080731088": {
+"ticker": "AVAV",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US4581401001": {
+"ticker": "INTC",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US7731211089": {
+"ticker": "RKLB",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US75513E1010": {
+"ticker": "RTX",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US22052L1044": {
+"ticker": "CTVA",
+"sector": "Basic Materials",
+"industry": "Agricultural Inputs",
+"quoteType": "EQUITY"
+},
+"DE000ENER6Y0": {
+"ticker": "ENR.DE",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US98980G1022": {
+"ticker": "ZS",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US8334451098": {
+"ticker": "SNOW",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US6541061031": {
+"ticker": "NKE",
+"sector": "Consumer Cyclical",
+"industry": "Footwear & Accessories",
+"quoteType": "EQUITY"
+},
+"AU000000BXB1": {
+"ticker": "BXB.AX",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US9807451037": {
+"ticker": "WWD",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US4228062083": {
+"ticker": "HEI-A",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US03524A1088": {
+"ticker": "BUD",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Brewers",
+"quoteType": "EQUITY"
+},
+"US5010441013": {
+"ticker": "KR",
+"sector": "Consumer Defensive",
+"industry": "Grocery Stores",
+"quoteType": "EQUITY"
+},
+"US85208M1027": {
+"ticker": "SFM",
+"sector": "Consumer Defensive",
+"industry": "Grocery Stores",
+"quoteType": "EQUITY"
+},
+"US7181721090": {
+"ticker": "PM",
+"sector": "Consumer Defensive",
+"industry": "Tobacco",
+"quoteType": "EQUITY"
+},
+"US4655621062": {
+"ticker": "ITUB",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US25809K1051": {
+"ticker": "DASH",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US82846H4056": {
+"ticker": "QXO",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US9170471026": {
+"ticker": "URBN",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US72352L1061": {
+"ticker": "PINS",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US55318A1088": {
+"ticker": "MNTN",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US29261A1007": {
+"ticker": "EHC",
+"sector": "Healthcare",
+"industry": "Medical Care Facilities",
+"quoteType": "EQUITY"
+},
+"PTGAL0AM0009": {
+"ticker": "GALP.LS",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"US5951121038": {
+"ticker": "MU",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US1266501006": {
+"ticker": "CVS",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"AU000000EVN4": {
+"ticker": "EVN.AX",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US02209S1033": {
+"ticker": "MO",
+"sector": "Consumer Defensive",
+"industry": "Tobacco",
+"quoteType": "EQUITY"
+},
+"GB00BM8PJY71": {
+"ticker": "NWG.L",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US78574H1041": {
+"ticker": "SOC",
+"sector": "Energy",
+"industry": "Oil & Gas Drilling",
+"quoteType": "EQUITY"
+},
+"US40171V1008": {
+"ticker": "GWRE",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US81141R1005": {
+"ticker": "SE",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"KYG8068L1086": {
+"ticker": "SN",
+"sector": "Consumer Cyclical",
+"industry": "Furnishings, Fixtures & Appliances",
+"quoteType": "EQUITY"
+},
+"NL0012866412": {
+"ticker": "BESI.AS",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"US8835561023": {
+"ticker": "TMO",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US4884452065": {
+"ticker": "ZVRA",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"KYG169101204": {
+"ticker": "BLSH",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US0162551016": {
+"ticker": "ALGN",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US98389B1008": {
+"ticker": "XEL",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US92556W1045": {
+"ticker": "VIA",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US31816X1063": {
+"ticker": "FLY",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"AU000000DRO2": {
+"ticker": "DRO.AX",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US3168411052": {
+"ticker": "FIG",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"IL0010811243": {
+"ticker": "ESLT",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US52476L1098": {
+"ticker": "LGN",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"US29364G1031": {
+"ticker": "ETR",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"GB0002875804": {
+"ticker": "BATS.L",
+"sector": "Consumer Defensive",
+"industry": "Tobacco",
+"quoteType": "EQUITY"
+},
+"US7707001027": {
+"ticker": "HOOD",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US7611521078": {
+"ticker": "RMD",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US5128073062": {
+"ticker": "LRCX",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"GB00BMHVL512": {
+"ticker": "KLAR",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US64119N6085": {
+"ticker": "NTSK",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US1468691027": {
+"ticker": "CVNA",
+"sector": "Consumer Cyclical",
+"industry": "Auto & Truck Dealerships",
+"quoteType": "EQUITY"
+},
+"GB00B2B0DG97": {
+"ticker": "REL.L",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US29977A1051": {
+"ticker": "EVR",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"NL00150012L7": {
+"ticker": "NAMS",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US09175A2069": {
+"ticker": "BMNR",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"JP3837800006": {
+"ticker": "7741.T",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US3493811034": {
+"ticker": "FIGR",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US91332U1016": {
+"ticker": "U",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US09062X1037": {
+"ticker": "BIIB",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US8168511090": {
+"ticker": "SRE",
+"sector": "Utilities",
+"industry": "Utilities - Diversified",
+"quoteType": "EQUITY"
+},
+"US42226A1079": {
+"ticker": "HQY",
+"sector": "Healthcare",
+"industry": "Health Information Services",
+"quoteType": "EQUITY"
+},
+"US5486611073": {
+"ticker": "LOW",
+"sector": "Consumer Cyclical",
+"industry": "Home Improvement Retail",
+"quoteType": "EQUITY"
+},
+"FR0000120644": {
+"ticker": "BN.PA",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US2944291051": {
+"ticker": "EFX",
+"sector": "Industrials",
+"industry": "Consulting Services",
+"quoteType": "EQUITY"
+},
+"FR0000121485": {
+"ticker": "KER.PA",
+"sector": "Consumer Cyclical",
+"industry": "Luxury Goods",
+"quoteType": "EQUITY"
+},
+"US4370761029": {
+"ticker": "HD",
+"sector": "Consumer Cyclical",
+"industry": "Home Improvement Retail",
+"quoteType": "EQUITY"
+},
+"US3119001044": {
+"ticker": "FAST",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US89677Q1076": {
+"ticker": "TCOM",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US8290731053": {
+"ticker": "SSD",
+"sector": "Basic Materials",
+"industry": "Lumber & Wood Production",
+"quoteType": "EQUITY"
+},
+"NL0010696654": {
+"ticker": "QURE",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US09075V1026": {
+"ticker": "BNTX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US91913Y1001": {
+"ticker": "VLO",
+"sector": "Energy",
+"industry": "Oil & Gas Refining & Marketing",
+"quoteType": "EQUITY"
+},
+"US0567521085": {
+"ticker": "BIDU",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US87422Q1094": {
+"ticker": "TLN",
+"sector": "Utilities",
+"industry": "Utilities - Independent Power Producers",
+"quoteType": "EQUITY"
+},
+"US4278661081": {
+"ticker": "HSY",
+"sector": "Consumer Defensive",
+"industry": "Confectioners",
+"quoteType": "EQUITY"
+},
+"US87165B1035": {
+"ticker": "SYF",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"BMG762791017": {
+"ticker": "ROIV",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US60937P1066": {
+"ticker": "MDB",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"GB00B02J6398": {
+"ticker": "ADM.L",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US0846707026": {
+"ticker": "BRK-B",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US58155Q1031": {
+"ticker": "MCK",
+"sector": "Healthcare",
+"industry": "Medical Distribution",
+"quoteType": "EQUITY"
+},
+"US28176E1082": {
+"ticker": "EW",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US00187Y1001": {
+"ticker": "APG",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"US12503M1080": {
+"ticker": "CBOE",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"GB00BRXH2664": {
+"ticker": "AU",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US2358511028": {
+"ticker": "DHR",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"CA4530384086": {
+"ticker": "IMO.TO",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"CA94106B1013": {
+"ticker": "WCN",
+"sector": "Industrials",
+"industry": "Waste Management",
+"quoteType": "EQUITY"
+},
+"US2567461080": {
+"ticker": "DLTR",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US5732841060": {
+"ticker": "MLM",
+"sector": "Basic Materials",
+"industry": "Building Materials",
+"quoteType": "EQUITY"
+},
+"US6668071029": {
+"ticker": "NOC",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US77311W1018": {
+"ticker": "RKT",
+"sector": "Financial Services",
+"industry": "Mortgage Finance",
+"quoteType": "EQUITY"
+},
+"US1667641005": {
+"ticker": "CVX",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"US86384P1093": {
+"ticker": "STUB",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US4859241048": {
+"ticker": "KRMN",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"DK0060055861": {
+"ticker": "CHEMM.CO",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US2183521028": {
+"ticker": "CORT",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"NL0000334118": {
+"ticker": "ASM.AS",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"US1421521071": {
+"ticker": "CAI",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US98954M1018": {
+"ticker": "ZG",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US87162W1009": {
+"ticker": "SNX",
+"sector": "Technology",
+"industry": "Electronics & Computer Distribution",
+"quoteType": "EQUITY"
+},
+"US98954M2008": {
+"ticker": "Z",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US42238D1072": {
+"ticker": "HTFL",
+"sector": "Healthcare",
+"industry": "Health Information Services",
+"quoteType": "EQUITY"
+},
+"JP3436100006": {
+"ticker": "9984.T",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"KYG254571055": {
+"ticker": "CRDO",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US61945C1036": {
+"ticker": "MOS",
+"sector": "Basic Materials",
+"industry": "Agricultural Inputs",
+"quoteType": "EQUITY"
+},
+"US03073E1055": {
+"ticker": "COR",
+"sector": "Healthcare",
+"industry": "Medical Distribution",
+"quoteType": "EQUITY"
+},
+"INE758T01015": {
+"ticker": "ETERNAL.NS",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"CA4509131088": {
+"ticker": "IMG.TO",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"IE000S9YS762": {
+"ticker": "LIN",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US31488V1070": {
+"ticker": "FERG",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US83406F1021": {
+"ticker": "SOFI",
+"sector": "Financial Services",
+"industry": "Credit Services",
+"quoteType": "EQUITY"
+},
+"US2786421030": {
+"ticker": "EBAY",
+"sector": "Consumer Cyclical",
+"industry": "Internet Retail",
+"quoteType": "EQUITY"
+},
+"US6795801009": {
+"ticker": "ODFL",
+"sector": "Industrials",
+"industry": "Trucking",
+"quoteType": "EQUITY"
+},
+"US12541W2098": {
+"ticker": "CHRW",
+"sector": "Industrials",
+"industry": "Integrated Freight & Logistics",
+"quoteType": "EQUITY"
+},
+"US9831341071": {
+"ticker": "WYNN",
+"sector": "Consumer Cyclical",
+"industry": "Resorts & Casinos",
+"quoteType": "EQUITY"
+},
+"AN8068571086": {
+"ticker": "SLB",
+"sector": "Energy",
+"industry": "Oil & Gas Equipment & Services",
+"quoteType": "EQUITY"
+},
+"US3695501086": {
+"ticker": "GD",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US9581021055": {
+"ticker": "WDC",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US0718131099": {
+"ticker": "BAX",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US1598641074": {
+"ticker": "CRL",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US2566771059": {
+"ticker": "DG",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US09290D1019": {
+"ticker": "BLK",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"IE00BKVD2N49": {
+"ticker": "STX",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US2193501051": {
+"ticker": "GLW",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US7134481081": {
+"ticker": "PEP",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Non-Alcoholic",
+"quoteType": "EQUITY"
+},
+"US4781601046": {
+"ticker": "JNJ",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US1152361010": {
+"ticker": "BRO",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"US44107P1049": {
+"ticker": "HST",
+"sector": "Real Estate",
+"industry": "REIT - Hotel & Motel",
+"quoteType": "EQUITY"
+},
+"US45866F1049": {
+"ticker": "ICE",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US5007541064": {
+"ticker": "KHC",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US57667L1070": {
+"ticker": "MTCH",
+"sector": "Communication Services",
+"industry": "Internet Content & Information",
+"quoteType": "EQUITY"
+},
+"US61174X1090": {
+"ticker": "MNST",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Non-Alcoholic",
+"quoteType": "EQUITY"
+},
+"US0394831020": {
+"ticker": "ADM",
+"sector": "Consumer Defensive",
+"industry": "Farm Products",
+"quoteType": "EQUITY"
+},
+"US73278L1052": {
+"ticker": "POOL",
+"sector": "Industrials",
+"industry": "Industrial Distribution",
+"quoteType": "EQUITY"
+},
+"US9291601097": {
+"ticker": "VMC",
+"sector": "Basic Materials",
+"industry": "Building Materials",
+"quoteType": "EQUITY"
+},
+"US3021301094": {
+"ticker": "EXPD",
+"sector": "Industrials",
+"industry": "Integrated Freight & Logistics",
+"quoteType": "EQUITY"
+},
+"US12572Q1058": {
+"ticker": "CME",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US94106L1098": {
+"ticker": "WM",
+"sector": "Industrials",
+"industry": "Waste Management",
+"quoteType": "EQUITY"
+},
+"US5950171042": {
+"ticker": "MCHP",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US5404241086": {
+"ticker": "L",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US0311001004": {
+"ticker": "AME",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US4461501045": {
+"ticker": "HBAN",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US22160N1090": {
+"ticker": "CSGP",
+"sector": "Real Estate",
+"industry": "Real Estate Services",
+"quoteType": "EQUITY"
+},
+"US98419M1009": {
+"ticker": "XYL",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US2971781057": {
+"ticker": "ESS",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"US62944T1051": {
+"ticker": "NVR",
+"sector": "Consumer Cyclical",
+"industry": "Residential Construction",
+"quoteType": "EQUITY"
+},
+"US59522J1034": {
+"ticker": "MAA",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"US1101221083": {
+"ticker": "BMY",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US6687711084": {
+"ticker": "GEN",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US9418481035": {
+"ticker": "WAT",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US8326964058": {
+"ticker": "SJM",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US2310211063": {
+"ticker": "CMI",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US5719032022": {
+"ticker": "MAR",
+"sector": "Consumer Cyclical",
+"industry": "Lodging",
+"quoteType": "EQUITY"
+},
+"US21036P1084": {
+"ticker": "STZ",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Brewers",
+"quoteType": "EQUITY"
+},
+"US7185461040": {
+"ticker": "PSX",
+"sector": "Energy",
+"industry": "Oil & Gas Refining & Marketing",
+"quoteType": "EQUITY"
+},
+"US78410G1040": {
+"ticker": "SBAC",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"BMG3223R1088": {
+"ticker": "EG",
+"sector": "Financial Services",
+"industry": "Insurance - Reinsurance",
+"quoteType": "EQUITY"
+},
+"US5926881054": {
+"ticker": "MTD",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US0530151036": {
+"ticker": "ADP",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US36266G1076": {
+"ticker": "GEHC",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US25179M1036": {
+"ticker": "DVN",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US65339F1012": {
+"ticker": "NEE",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US88262P1021": {
+"ticker": "TPL",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US8447411088": {
+"ticker": "LUV",
+"sector": "Industrials",
+"industry": "Airlines",
+"quoteType": "EQUITY"
+},
+"US35137L1052": {
+"ticker": "FOXA",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US4262811015": {
+"ticker": "JKHY",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US8962391004": {
+"ticker": "TRMB",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"US7782961038": {
+"ticker": "ROST",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US8330341012": {
+"ticker": "SNA",
+"sector": "Industrials",
+"industry": "Tools & Accessories",
+"quoteType": "EQUITY"
+},
+"US0200021014": {
+"ticker": "ALL",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US2538681030": {
+"ticker": "DLR",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"US1331311027": {
+"ticker": "CPT",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"US2810201077": {
+"ticker": "EIX",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US2333311072": {
+"ticker": "DTE",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US00206R1023": {
+"ticker": "T",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US4404521001": {
+"ticker": "HRL",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US7170811035": {
+"ticker": "PFE",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US09073M1045": {
+"ticker": "TECH",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"IE00BLS09M33": {
+"ticker": "PNR",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US5178341070": {
+"ticker": "LVS",
+"sector": "Consumer Cyclical",
+"industry": "Resorts & Casinos",
+"quoteType": "EQUITY"
+},
+"US8793691069": {
+"ticker": "TFX",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US0495601058": {
+"ticker": "ATO",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Gas",
+"quoteType": "EQUITY"
+},
+"US7591EP1005": {
+"ticker": "RF",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US3137451015": {
+"ticker": "FRT",
+"sector": "Real Estate",
+"industry": "REIT - Retail",
+"quoteType": "EQUITY"
+},
+"US0758871091": {
+"ticker": "BDX",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US6703461052": {
+"ticker": "NUE",
+"sector": "Basic Materials",
+"industry": "Steel",
+"quoteType": "EQUITY"
+},
+"US7443201022": {
+"ticker": "PRU",
+"sector": "Financial Services",
+"industry": "Insurance - Life",
+"quoteType": "EQUITY"
+},
+"US5018892084": {
+"ticker": "LKQ",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"US9113121068": {
+"ticker": "UPS",
+"sector": "Industrials",
+"industry": "Integrated Freight & Logistics",
+"quoteType": "EQUITY"
+},
+"US3724601055": {
+"ticker": "GPC",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"US8288061091": {
+"ticker": "SPG",
+"sector": "Real Estate",
+"industry": "REIT - Retail",
+"quoteType": "EQUITY"
+},
+"US42824C1099": {
+"ticker": "HPE",
+"sector": "Technology",
+"industry": "Communication Equipment",
+"quoteType": "EQUITY"
+},
+"IE00BY7QL619": {
+"ticker": "JCI",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"US8807701029": {
+"ticker": "TER",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"US04621X1081": {
+"ticker": "AIZ",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US60855R1005": {
+"ticker": "MOH",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"US37959E1029": {
+"ticker": "GL",
+"sector": "Financial Services",
+"industry": "Insurance - Life",
+"quoteType": "EQUITY"
+},
+"US69370C1009": {
+"ticker": "PTC",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US4165151048": {
+"ticker": "HIG",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US5132721045": {
+"ticker": "LW",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US83444M1018": {
+"ticker": "SOLV",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US3703341046": {
+"ticker": "GIS",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US5797802064": {
+"ticker": "MKC",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US6516391066": {
+"ticker": "NEM",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US29414B1044": {
+"ticker": "EPAM",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US9026531049": {
+"ticker": "UDR",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"US83088M1027": {
+"ticker": "SWKS",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US9694571004": {
+"ticker": "WMB",
+"sector": "Energy",
+"industry": "Oil & Gas Midstream",
+"quoteType": "EQUITY"
+},
+"US0304201033": {
+"ticker": "AWK",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Water",
+"quoteType": "EQUITY"
+},
+"US92343E1029": {
+"ticker": "VRSN",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US29355A1079": {
+"ticker": "ENPH",
+"sector": "Technology",
+"industry": "Solar",
+"quoteType": "EQUITY"
+},
+"US6934751057": {
+"ticker": "PNC",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US9621661043": {
+"ticker": "WY",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"US1720621010": {
+"ticker": "CINF",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US1431301027": {
+"ticker": "KMX",
+"sector": "Consumer Cyclical",
+"industry": "Auto & Truck Dealerships",
+"quoteType": "EQUITY"
+},
+"US3364331070": {
+"ticker": "FSLR",
+"sector": "Technology",
+"industry": "Solar",
+"quoteType": "EQUITY"
+},
+"US1713401024": {
+"ticker": "CHD",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US00724F1012": {
+"ticker": "ADBE",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US7588491032": {
+"ticker": "REG",
+"sector": "Real Estate",
+"industry": "REIT - Retail",
+"quoteType": "EQUITY"
+},
+"US7140461093": {
+"ticker": "RVTY",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US5261071071": {
+"ticker": "LII",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"US0527691069": {
+"ticker": "ADSK",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"IE000IVNQZ81": {
+"ticker": "TEL",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US8718291078": {
+"ticker": "SYY",
+"sector": "Consumer Defensive",
+"industry": "Food Distribution",
+"quoteType": "EQUITY"
+},
+"US57060D1081": {
+"ticker": "MKTX",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US9139031002": {
+"ticker": "UHS",
+"sector": "Healthcare",
+"industry": "Medical Care Facilities",
+"quoteType": "EQUITY"
+},
+"US12008R1077": {
+"ticker": "BLDR",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"US92276F1003": {
+"ticker": "VTR",
+"sector": "Real Estate",
+"industry": "REIT - Healthcare Facilities",
+"quoteType": "EQUITY"
+},
+"US2091151041": {
+"ticker": "ED",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US49446R1095": {
+"ticker": "KIM",
+"sector": "Real Estate",
+"industry": "REIT - Retail",
+"quoteType": "EQUITY"
+},
+"US1508701034": {
+"ticker": "CE",
+"sector": "Basic Materials",
+"industry": "Chemicals",
+"quoteType": "EQUITY"
+},
+"US25278X1090": {
+"ticker": "FANG",
+"sector": null,
+"industry": null,
+"quoteType": null
+},
+"NL0009434992": {
+"ticker": "LYB",
+"sector": null,
+"industry": null,
+"quoteType": null
+},
+"US65249B1098": {
+"ticker": "NWSA",
+"sector": null,
+"industry": null,
+"quoteType": null
+},
+"US03743Q1085": {
+"ticker": "APA",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US1890541097": {
+"ticker": "CLX",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US30040W1080": {
+"ticker": "ES",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US68902V1070": {
+"ticker": "OTIS",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US2371941053": {
+"ticker": "DRI",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"BMG491BT1088": {
+"ticker": "IVZ",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US7757111049": {
+"ticker": "ROL",
+"sector": "Consumer Cyclical",
+"industry": "Personal Services",
+"quoteType": "EQUITY"
+},
+"US34959J1088": {
+"ticker": "FTV",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"US35137L2043": {
+"ticker": "FOX",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"IE00BTN1Y115": {
+"ticker": "MDT",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US9100471096": {
+"ticker": "UAL",
+"sector": "Industrials",
+"industry": "Airlines",
+"quoteType": "EQUITY"
+},
+"US49338L1035": {
+"ticker": "KEYS",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"US45167R1041": {
+"ticker": "IEX",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US7561091049": {
+"ticker": "O",
+"sector": "Real Estate",
+"industry": "REIT - Retail",
+"quoteType": "EQUITY"
+},
+"US49271V1008": {
+"ticker": "KDP",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Non-Alcoholic",
+"quoteType": "EQUITY"
+},
+"US46187W1071": {
+"ticker": "INVH",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"BMG0450A1053": {
+"ticker": "ACGL",
+"sector": "Financial Services",
+"industry": "Insurance - Diversified",
+"quoteType": "EQUITY"
+},
+"US20030N1019": {
+"ticker": "CMCSA",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US2058871029": {
+"ticker": "CAG",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US90384S3031": {
+"ticker": "ULTA",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US14149Y1082": {
+"ticker": "CAH",
+"sector": "Healthcare",
+"industry": "Medical Distribution",
+"quoteType": "EQUITY"
+},
+"US7445731067": {
+"ticker": "PEG",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US65249B2088": {
+"ticker": "NWS",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US30212P3038": {
+"ticker": "EXPE",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US9029733048": {
+"ticker": "USB",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US69351T1060": {
+"ticker": "PPL",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US2521311074": {
+"ticker": "DXCM",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US7739031091": {
+"ticker": "ROK",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US4932671088": {
+"ticker": "KEY",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US0152711091": {
+"ticker": "ARE",
+"sector": "Real Estate",
+"industry": "REIT - Office",
+"quoteType": "EQUITY"
+},
+"US0844231029": {
+"ticker": "WRB",
+"sector": "Financial Services",
+"industry": "Insurance - Property & Casualty",
+"quoteType": "EQUITY"
+},
+"US17275R1023": {
+"ticker": "CSCO",
+"sector": "Technology",
+"industry": "Communication Equipment",
+"quoteType": "EQUITY"
+},
+"US3167731005": {
+"ticker": "FITB",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US3379321074": {
+"ticker": "FE",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US1924461023": {
+"ticker": "CTSH",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US4464131063": {
+"ticker": "HII",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US65473P1057": {
+"ticker": "NI",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Gas",
+"quoteType": "EQUITY"
+},
+"US4456581077": {
+"ticker": "JBHT",
+"sector": "Industrials",
+"industry": "Integrated Freight & Logistics",
+"quoteType": "EQUITY"
+},
+"US6935061076": {
+"ticker": "PPG",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US2199481068": {
+"ticker": "CPAY",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US74762E1029": {
+"ticker": "PWR",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"US0584981064": {
+"ticker": "BALL",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US40434L1052": {
+"ticker": "HPQ",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US1941621039": {
+"ticker": "CL",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US8740541094": {
+"ticker": "TTWO",
+"sector": "Communication Services",
+"industry": "Electronic Gaming & Multimedia",
+"quoteType": "EQUITY"
+},
+"US30161N1019": {
+"ticker": "EXC",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US8064071025": {
+"ticker": "HSIC",
+"sector": "Healthcare",
+"industry": "Medical Distribution",
+"quoteType": "EQUITY"
+},
+"US1156372096": {
+"ticker": "BF-B",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Wineries & Distilleries",
+"quoteType": "EQUITY"
+},
+"US4595061015": {
+"ticker": "IFF",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US1255231003": {
+"ticker": "CI",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"US6081901042": {
+"ticker": "MHK",
+"sector": "Consumer Cyclical",
+"industry": "Furnishings, Fixtures & Appliances",
+"quoteType": "EQUITY"
+},
+"US3156161024": {
+"ticker": "FFIV",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US87612E1064": {
+"ticker": "TGT",
+"sector": "Consumer Defensive",
+"industry": "Discount Stores",
+"quoteType": "EQUITY"
+},
+"US8545021011": {
+"ticker": "SWK",
+"sector": "Industrials",
+"industry": "Tools & Accessories",
+"quoteType": "EQUITY"
+},
+"US98956P1021": {
+"ticker": "ZBH",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US4062161017": {
+"ticker": "HAL",
+"sector": "Energy",
+"industry": "Oil & Gas Equipment & Services",
+"quoteType": "EQUITY"
+},
+"US1344291091": {
+"ticker": "CPB",
+"sector": "Consumer Defensive",
+"industry": "Packaged Foods",
+"quoteType": "EQUITY"
+},
+"US29530P1021": {
+"ticker": "ERIE",
+"sector": "Financial Services",
+"industry": "Insurance Brokers",
+"quoteType": "EQUITY"
+},
+"US20825C1045": {
+"ticker": "COP",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US22822V1017": {
+"ticker": "CCI",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"CH1300646267": {
+"ticker": "BG",
+"sector": "Consumer Defensive",
+"industry": "Farm Products",
+"quoteType": "EQUITY"
+},
+"US11133T1034": {
+"ticker": "BR",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US9024941034": {
+"ticker": "TSN",
+"sector": "Consumer Defensive",
+"industry": "Farm Products",
+"quoteType": "EQUITY"
+},
+"US00971T1016": {
+"ticker": "AKAM",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US0536111091": {
+"ticker": "AVY",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US8793601050": {
+"ticker": "TDY",
+"sector": "Technology",
+"industry": "Scientific & Technical Instruments",
+"quoteType": "EQUITY"
+},
+"IE00BFRT3W74": {
+"ticker": "ALLE",
+"sector": "Industrials",
+"industry": "Security & Protection Services",
+"quoteType": "EQUITY"
+},
+"US45168D1046": {
+"ticker": "IDXX",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US74144T1088": {
+"ticker": "TROW",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US92556V1061": {
+"ticker": "VTRS",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - Specialty & Generic",
+"quoteType": "EQUITY"
+},
+"US0236081024": {
+"ticker": "AEE",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US1258961002": {
+"ticker": "CMS",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US5024311095": {
+"ticker": "LHX",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US9553061055": {
+"ticker": "WST",
+"sector": "Healthcare",
+"industry": "Medical Instruments & Supplies",
+"quoteType": "EQUITY"
+},
+"US6558441084": {
+"ticker": "NSC",
+"sector": "Industrials",
+"industry": "Railroads",
+"quoteType": "EQUITY"
+},
+"US03076C1062": {
+"ticker": "AMP",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US9256521090": {
+"ticker": "VICI",
+"sector": "Real Estate",
+"industry": "REIT - Diversified",
+"quoteType": "EQUITY"
+},
+"US46266C1053": {
+"ticker": "IQV",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US2605571031": {
+"ticker": "DOW",
+"sector": "Basic Materials",
+"industry": "Chemicals",
+"quoteType": "EQUITY"
+},
+"US49177J1025": {
+"ticker": "KVUE",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US00846U1016": {
+"ticker": "A",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US89832Q1094": {
+"ticker": "TFC",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US25754A2015": {
+"ticker": "DPZ",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US37940X1028": {
+"ticker": "GPN",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US6556631025": {
+"ticker": "NDSN",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US59156R1086": {
+"ticker": "MET",
+"sector": "Financial Services",
+"industry": "Insurance - Life",
+"quoteType": "EQUITY"
+},
+"US92343V1044": {
+"ticker": "VZ",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US5529531015": {
+"ticker": "MGM",
+"sector": "Consumer Cyclical",
+"industry": "Resorts & Casinos",
+"quoteType": "EQUITY"
+},
+"US3546131018": {
+"ticker": "BEN",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US4448591028": {
+"ticker": "HUM",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"US74251V1026": {
+"ticker": "PFG",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US0311621009": {
+"ticker": "AMGN",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US7043261079": {
+"ticker": "PAYX",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US8832031012": {
+"ticker": "TXT",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US74834L1008": {
+"ticker": "DGX",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US60871R2094": {
+"ticker": "TAP",
+"sector": "Consumer Defensive",
+"industry": "Beverages - Brewers",
+"quoteType": "EQUITY"
+},
+"US12769G1004": {
+"ticker": "CZR",
+"sector": "Consumer Cyclical",
+"industry": "Resorts & Casinos",
+"quoteType": "EQUITY"
+},
+"US1252691001": {
+"ticker": "CF",
+"sector": "Basic Materials",
+"industry": "Agricultural Inputs",
+"quoteType": "EQUITY"
+},
+"US74460D1090": {
+"ticker": "PSA",
+"sector": "Real Estate",
+"industry": "REIT - Industrial",
+"quoteType": "EQUITY"
+},
+"US30034W1062": {
+"ticker": "EVRG",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US74340W1036": {
+"ticker": "PLD",
+"sector": "Real Estate",
+"industry": "REIT - Industrial",
+"quoteType": "EQUITY"
+},
+"US3030751057": {
+"ticker": "FDS",
+"sector": "Financial Services",
+"industry": "Financial Data & Stock Exchanges",
+"quoteType": "EQUITY"
+},
+"US4943681035": {
+"ticker": "KMB",
+"sector": "Consumer Defensive",
+"industry": "Household & Personal Products",
+"quoteType": "EQUITY"
+},
+"US5049221055": {
+"ticker": "LH",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"US12514G1085": {
+"ticker": "CDW",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US2910111044": {
+"ticker": "EMR",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US1011211018": {
+"ticker": "BXP",
+"sector": "Real Estate",
+"industry": "REIT - Office",
+"quoteType": "EQUITY"
+},
+"US4180561072": {
+"ticker": "HAS",
+"sector": "Consumer Cyclical",
+"industry": "Leisure",
+"quoteType": "EQUITY"
+},
+"US7234841010": {
+"ticker": "PNW",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"IE00BFY8C754": {
+"ticker": "STE",
+"sector": "Healthcare",
+"industry": "Medical Devices",
+"quoteType": "EQUITY"
+},
+"US0188021085": {
+"ticker": "LNT",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US29476L1070": {
+"ticker": "VMRK",
+"sector": "Real Estate",
+"industry": "REIT - Residential",
+"quoteType": "EQUITY"
+},
+"US0367521038": {
+"ticker": "ELV",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"US5745991068": {
+"ticker": "MAS",
+"sector": "Industrials",
+"industry": "Building Products & Equipment",
+"quoteType": "EQUITY"
+},
+"US8574771031": {
+"ticker": "STT",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US6745991058": {
+"ticker": "OXY",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US6092071058": {
+"ticker": "MDLZ",
+"sector": "Consumer Defensive",
+"industry": "Confectioners",
+"quoteType": "EQUITY"
+},
+"US6658591044": {
+"ticker": "NTRS",
+"sector": "Financial Services",
+"industry": "Asset Management",
+"quoteType": "EQUITY"
+},
+"US6821891057": {
+"ticker": "ON",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US9078181081": {
+"ticker": "UNP",
+"sector": "Industrials",
+"industry": "Railroads",
+"quoteType": "EQUITY"
+},
+"US92939U1060": {
+"ticker": "WEC",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"NL0009538784": {
+"ticker": "NXPI",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US64110D1046": {
+"ticker": "NTAP",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US8923561067": {
+"ticker": "TSCO",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US9022521051": {
+"ticker": "TYL",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US2172041061": {
+"ticker": "CPRT",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"US26441C2044": {
+"ticker": "DUK",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US46982L1089": {
+"ticker": "J",
+"sector": "Industrials",
+"industry": "Engineering & Construction",
+"quoteType": "EQUITY"
+},
+"US31428X1063": {
+"ticker": "FDX",
+"sector": "Industrials",
+"industry": "Integrated Freight & Logistics",
+"quoteType": "EQUITY"
+},
+"US8716071076": {
+"ticker": "SNPS",
+"sector": "Technology",
+"industry": "Software - Infrastructure",
+"quoteType": "EQUITY"
+},
+"US2600031080": {
+"ticker": "DOV",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US45337C1027": {
+"ticker": "INCY",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US4523081093": {
+"ticker": "ITW",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US5801351017": {
+"ticker": "MCD",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US0126531013": {
+"ticker": "ALB",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US49456B1017": {
+"ticker": "KMI",
+"sector": "Energy",
+"industry": "Oil & Gas Midstream",
+"quoteType": "EQUITY"
+},
+"US0010551028": {
+"ticker": "AFL",
+"sector": "Financial Services",
+"industry": "Insurance - Life",
+"quoteType": "EQUITY"
+},
+"US86800U3023": {
+"ticker": "SMCI",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US42250P1030": {
+"ticker": "DOC",
+"sector": "Real Estate",
+"industry": "REIT - Healthcare Facilities",
+"quoteType": "EQUITY"
+},
+"US9884981013": {
+"ticker": "YUM",
+"sector": "Consumer Cyclical",
+"industry": "Restaurants",
+"quoteType": "EQUITY"
+},
+"US87612G1013": {
+"ticker": "TRGP",
+"sector": "Energy",
+"industry": "Oil & Gas Midstream",
+"quoteType": "EQUITY"
+},
+"JE00BTDN8H13": {
+"ticker": "APTV",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"US25746U1097": {
+"ticker": "D",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US23918K1088": {
+"ticker": "DVA",
+"sector": "Healthcare",
+"industry": "Medical Care Facilities",
+"quoteType": "EQUITY"
+},
+"US0997241064": {
+"ticker": "BWA",
+"sector": "Consumer Cyclical",
+"industry": "Auto Parts",
+"quoteType": "EQUITY"
+},
+"US3024913036": {
+"ticker": "FMC",
+"sector": "Basic Materials",
+"industry": "Agricultural Inputs",
+"quoteType": "EQUITY"
+},
+"US7475251036": {
+"ticker": "QCOM",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"BMG667211046": {
+"ticker": "NCLH",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US00130H1059": {
+"ticker": "AES",
+"sector": "Utilities",
+"industry": "Utilities - Diversified",
+"quoteType": "EQUITY"
+},
+"US15135B1017": {
+"ticker": "CNC",
+"sector": "Healthcare",
+"industry": "Healthcare Plans",
+"quoteType": "EQUITY"
+},
+"US03027X1000": {
+"ticker": "AMT",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"US55261F1049": {
+"ticker": "MTB",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US3453708600": {
+"ticker": "F",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"US5398301094": {
+"ticker": "LMT",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"US15189T1079": {
+"ticker": "CNP",
+"sector": "Utilities",
+"industry": "Utilities - Regulated Electric",
+"quoteType": "EQUITY"
+},
+"US1746101054": {
+"ticker": "CFG",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US2774321002": {
+"ticker": "EMN",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"US6951561090": {
+"ticker": "PKG",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US8825081040": {
+"ticker": "TXN",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"US46284V1017": {
+"ticker": "IRM",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"US31620M1062": {
+"ticker": "FIS",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US30225T1025": {
+"ticker": "EXR",
+"sector": "Real Estate",
+"industry": "REIT - Industrial",
+"quoteType": "EQUITY"
+},
+"US98138H1014": {
+"ticker": "WDAY",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US1264081035": {
+"ticker": "CSX",
+"sector": "Industrials",
+"industry": "Railroads",
+"quoteType": "EQUITY"
+},
+"IE00028FXN24": {
+"ticker": "SW",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US98978V1035": {
+"ticker": "ZTS",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - Specialty & Generic",
+"quoteType": "EQUITY"
+},
+"US29444U7000": {
+"ticker": "EQIX",
+"sector": "Real Estate",
+"industry": "REIT - Specialty",
+"quoteType": "EQUITY"
+},
+"US8318652091": {
+"ticker": "AOS",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US0865161014": {
+"ticker": "BBY",
+"sector": "Consumer Cyclical",
+"industry": "Specialty Retail",
+"quoteType": "EQUITY"
+},
+"US1651677353": {
+"ticker": "EXE",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"US80004C2008": {
+"ticker": "SNDK",
+"sector": "Technology",
+"industry": "Computer Hardware",
+"quoteType": "EQUITY"
+},
+"US87256C1018": {
+"ticker": "TKO",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"US7509401086": {
+"ticker": "RAL",
+"sector": "Technology",
+"industry": "Electronic Components",
+"quoteType": "EQUITY"
+},
+"US69932A2042": {
+"ticker": "SKYD",
+"sector": "Communication Services",
+"industry": "Entertainment",
+"quoteType": "EQUITY"
+},
+"GB00B63H8491": {
+"ticker": "RYCEF",
+"sector": "Industrials",
+"industry": "Aerospace & Defense",
+"quoteType": "EQUITY"
+},
+"CA15138B3065": {
+"ticker": "CTARF",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"IE00BF0L3536": {
+"ticker": "AIBRF",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"CNE100003662": {
+"ticker": "300750.SZ",
+"sector": "Industrials",
+"industry": "Electrical Equipment & Parts",
+"quoteType": "EQUITY"
+},
+"US0534841012": {
+"ticker": "AVBC",
+"sector": "Financial Services",
+"industry": "Banks - Regional",
+"quoteType": "EQUITY"
+},
+"US8816242098": {
+"ticker": "TEVA",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - Specialty & Generic",
+"quoteType": "EQUITY"
+},
+"CA00208D4084": {
+"ticker": "ARX.TO",
+"sector": "Energy",
+"industry": "Oil & Gas E&P",
+"quoteType": "EQUITY"
+},
+"CA53626M1041": {
+"ticker": "LION",
+"sector": null,
+"industry": null,
+"quoteType": "EQUITY"
+},
+"PA1436583006": {
+"ticker": "CCL",
+"sector": "Consumer Cyclical",
+"industry": "Travel Services",
+"quoteType": "EQUITY"
+},
+"US30231G1022": {
+"ticker": "XOM",
+"sector": "Energy",
+"industry": "Oil & Gas Integrated",
+"quoteType": "EQUITY"
+},
+"CA8849038085": {
+"ticker": "TRI",
+"sector": "Industrials",
+"industry": "Specialty Business Services",
+"quoteType": "EQUITY"
+},
+"CA3759161035": {
+"ticker": "GIL.TO",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Manufacturing",
+"quoteType": "EQUITY"
+},
+"US55405Y1001": {
+"ticker": "MTSI",
+"sector": "Technology",
+"industry": "Semiconductors",
+"quoteType": "EQUITY"
+},
+"USN070592100": {
+"ticker": "ASML",
+"sector": "Technology",
+"industry": "Semiconductor Equipment & Materials",
+"quoteType": "EQUITY"
+},
+"JP3733000008": {
+"ticker": "6701.T",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"US55024U1097": {
+"ticker": "LITE",
+"sector": "Technology",
+"industry": "Communication Equipment",
+"quoteType": "EQUITY"
+},
+"US87151X1019": {
+"ticker": "SYM",
+"sector": "Industrials",
+"industry": "Specialty Industrial Machinery",
+"quoteType": "EQUITY"
+},
+"US09061G1013": {
+"ticker": "BMRN",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"JP3818000006": {
+"ticker": "6702.T",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"CNE100003F19": {
+"ticker": "2359.HK",
+"sector": "Healthcare",
+"industry": "Diagnostics & Research",
+"quoteType": "EQUITY"
+},
+"KR7000270009": {
+"ticker": "000270.KS",
+"sector": "Consumer Cyclical",
+"industry": "Auto Manufacturers",
+"quoteType": "EQUITY"
+},
+"CA06849F1080": {
+"ticker": "B",
+"sector": "Basic Materials",
+"industry": "Gold",
+"quoteType": "EQUITY"
+},
+"US1271903049": {
+"ticker": "CACI",
+"sector": "Technology",
+"industry": "Information Technology Services",
+"quoteType": "EQUITY"
+},
+"JP3890350006": {
+"ticker": "8316.T",
+"sector": "Financial Services",
+"industry": "Banks - Diversified",
+"quoteType": "EQUITY"
+},
+"US45257U1088": {
+"ticker": "IMNM",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"IL0011684185": {
+"ticker": "FROG",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US3397501012": {
+"ticker": "FND",
+"sector": "Consumer Cyclical",
+"industry": "Home Improvement Retail",
+"quoteType": "EQUITY"
+},
+"US0463531089": {
+"ticker": "AZN",
+"sector": "Healthcare",
+"industry": "Drug Manufacturers - General",
+"quoteType": "EQUITY"
+},
+"US36118L1061": {
+"ticker": "FUTU",
+"sector": "Financial Services",
+"industry": "Capital Markets",
+"quoteType": "EQUITY"
+},
+"US86366E1064": {
+"ticker": "GPCR",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US86627T1088": {
+"ticker": "SMMT",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US2787681061": {
+"ticker": "ECHO",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US23282W6057": {
+"ticker": "CYTK",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"JP3435000009": {
+"ticker": "6758.T",
+"sector": "Technology",
+"industry": "Consumer Electronics",
+"quoteType": "EQUITY"
+},
+"US69366J2006": {
+"ticker": "PTCT",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US45258J1025": {
+"ticker": "IMVT",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US5015751044": {
+"ticker": "KYMR",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US89422G1076": {
+"ticker": "TVTX",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US78467J1007": {
+"ticker": "SSNC",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"IE00B4Q5ZN47": {
+"ticker": "JAZZ",
+"sector": "Healthcare",
+"industry": "Biotechnology",
+"quoteType": "EQUITY"
+},
+"US0994061002": {
+"ticker": "BOOT",
+"sector": "Consumer Cyclical",
+"industry": "Apparel Retail",
+"quoteType": "EQUITY"
+},
+"US92556H2067": {
+"ticker": "PARA",
+"sector": "Technology",
+"industry": "Software - Application",
+"quoteType": "EQUITY"
+},
+"US26614N1028": {
+"ticker": "DD",
+"sector": "Basic Materials",
+"industry": "Specialty Chemicals",
+"quoteType": "EQUITY"
+},
+"JE00BJ1F3079": {
+"ticker": "AMCR",
+"sector": "Consumer Cyclical",
+"industry": "Packaging & Containers",
+"quoteType": "EQUITY"
+},
+"US6826801036": {
+"ticker": "OKE",
+"sector": "Energy",
+"industry": "Oil & Gas Midstream",
+"quoteType": "EQUITY"
+},
+"US4385161066": {
+"ticker": "HON",
+"sector": "Industrials",
+"industry": "Conglomerates",
+"quoteType": "EQUITY"
+},
+"INE397D01024": {
+"ticker": "BHARTIARTL.NS",
+"sector": "Communication Services",
+"industry": "Telecom Services",
+"quoteType": "EQUITY"
+},
+"US46578C1163": {
+"ticker": "IE",
+"sector": "Basic Materials",
+"industry": "Copper",
+"quoteType": "EQUITY"
+}
+}

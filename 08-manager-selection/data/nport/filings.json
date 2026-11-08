@@ -1,0 +1,34 @@
+{
+ "ANWPX": {
+  "series_name": "New Perspective Fund",
+  "series_id": "S000009613",
+  "rep_pd_date": "2026-06-30",
+  "total_assets": "171730192111.460000000000",
+  "net_assets": "170363748792.080000000000",
+  "accession": "0001193125-26-371335"
+ },
+ "DODWX": {
+  "series_name": "Dodge & Cox Global Stock Fund",
+  "series_id": "S000022057",
+  "rep_pd_date": "2026-06-30",
+  "total_assets": "13065550100.120000000000",
+  "net_assets": "13005099877.250000000000",
+  "accession": "0001193125-26-373258"
+ },
+ "PRGSX": {
+  "series_name": "T. Rowe Price Global Stock Fund",
+  "series_id": "S000001497",
+  "rep_pd_date": "2026-07-31",
+  "total_assets": "8426055564.380001",
+  "net_assets": "8309539206.120001",
+  "accession": "0001099263-26-010105"
+ },
+ "ACWI": {
+  "series_name": "iShares MSCI ACWI ETF",
+  "series_id": "S000021461",
+  "rep_pd_date": "2026-07-31",
+  "total_assets": "32870269987.31",
+  "net_assets": "32488431698.40",
+  "accession": "0001004726-26-008801"
+ }
+}

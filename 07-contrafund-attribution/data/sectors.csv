@@ -1,0 +1,796 @@
+isin,ticker,sector,industry,quoteType
+US37045V1008,GM,Consumer Cyclical,Auto Manufacturers,EQUITY
+US19247G1076,COHR,Technology,Scientific & Technical Instruments,EQUITY
+JP3639650005,7532.T,Consumer Defensive,Discount Stores,EQUITY
+GB00B0SWJX34,LSEG.L,Financial Services,Financial Data & Stock Exchanges,EQUITY
+CA7397211086,PSK.TO,Energy,Oil & Gas E&P,EQUITY
+US30161Q1040,EXEL,Healthcare,Biotechnology,EQUITY
+US3666511072,IT,Technology,Information Technology Services,EQUITY
+US22160K1051,COST,Consumer Defensive,Discount Stores,EQUITY
+JP3802300008,9983.T,Consumer Cyclical,Apparel Retail,EQUITY
+US6819191064,OMC,Communication Services,Advertising Agencies,EQUITY
+US18915M1071,NET,Technology,Software - Infrastructure,EQUITY
+US7427181091,PG,Consumer Defensive,Household & Personal Products,EQUITY
+IE00BD1RP616,BIRG.IR,Financial Services,Banks - Regional,EQUITY
+US0116591092,ALK,Industrials,Airlines,EQUITY
+US48251W1045,KKR,Financial Services,Asset Management,EQUITY
+US9297401088,WAB,Industrials,Railroads,EQUITY
+US24703L2025,DELL,Technology,Computer Hardware,EQUITY
+US3802371076,GDDY,Technology,Software - Infrastructure,EQUITY
+US2561631068,DOCU,Technology,Software - Application,EQUITY
+US7802593050,SHEL,Energy,Oil & Gas Integrated,EQUITY
+US91307C1027,UTHR,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
+US4601461035,IP,Consumer Cyclical,Packaging & Containers,EQUITY
+US36828A1016,GEV,Industrials,Specialty Industrial Machinery,EQUITY
+US0378331005,AAPL,Technology,Consumer Electronics,EQUITY
+US7731221062,RKLB,Industrials,Aerospace & Defense,EQUITY
+FR0000121667,EL.PA,Healthcare,Medical Instruments & Supplies,EQUITY
+US88339J1051,TTD,Communication Services,Advertising Agencies,EQUITY
+US0326541051,ADI,Technology,Semiconductors,EQUITY
+US5312297550,FWONK,Communication Services,Entertainment,EQUITY
+ES0113900J37,SAN.MC,Financial Services,Banks - Diversified,EQUITY
+US92338C1036,VLTO,Industrials,Pollution & Treatment Controls,EQUITY
+US8725901040,TMUS,Communication Services,Telecom Services,EQUITY
+US0079031078,AMD,Technology,Semiconductors,EQUITY
+US0231351067,AMZN,Consumer Cyclical,Internet Retail,EQUITY
+US8636671013,SYK,Healthcare,Medical Devices,EQUITY
+US0320951017,APH,Technology,Electronic Components,EQUITY
+US8425871071,SO,Utilities,Utilities - Regulated Electric,EQUITY
+CA25675T1075,DOL.TO,Consumer Defensive,Discount Stores,EQUITY
+US5949181045,MSFT,Technology,Software - Infrastructure,EQUITY
+US95040Q1040,WELL,Real Estate,REIT - Healthcare Facilities,EQUITY
+US81762P1021,NOW,Technology,Software - Application,EQUITY
+US46579R2031,IVN.TO,Basic Materials,Other Industrial Metals & Mining,EQUITY
+US31946M1036,FCNCA,Financial Services,Banks - Regional,EQUITY
+CH1134540470,ONON,Consumer Cyclical,Footwear & Accessories,EQUITY
+US02079K1079,GOOG,Communication Services,Internet Content & Information,EQUITY
+JP3122400009,6857.T,Technology,Semiconductor Equipment & Materials,EQUITY
+US05464C1018,AXON,Industrials,Aerospace & Defense,EQUITY
+US7433151039,PGR,Financial Services,Insurance - Property & Casualty,EQUITY
+IL0011301780,WIX,Technology,Software - Infrastructure,EQUITY
+IE00B4BNMY34,ACN,Technology,Information Technology Services,EQUITY
+US78409V1044,SPGI,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US92826C8394,V,Financial Services,Credit Services,EQUITY
+JP3900000005,7011.T,Industrials,Specialty Industrial Machinery,EQUITY
+US9113631090,URI,Industrials,Rental & Leasing Services,EQUITY
+US38141G1040,GS,Financial Services,Capital Markets,EQUITY
+US14040H1059,COF,Financial Services,Credit Services,EQUITY
+US88579Y1010,MMM,Industrials,Conglomerates,EQUITY
+US8581191009,STLD,Basic Materials,Steel,EQUITY
+US0494681010,TEAM,Technology,Software - Application,EQUITY
+US75886F1075,REGN,Healthcare,Biotechnology,EQUITY
+US30303M1027,META,Communication Services,Internet Content & Information,EQUITY
+US03769M1062,APO,Financial Services,Asset Management,EQUITY
+US12504L1098,CBRE,Real Estate,Real Estate Services,EQUITY
+US8085131055,SCHW,Financial Services,Capital Markets,EQUITY
+IL0010824113,CHKP,Technology,Software - Infrastructure,EQUITY
+US23804L1035,DDOG,Technology,Software - Application,EQUITY
+CH0044328745,CB,Financial Services,Insurance - Property & Casualty,EQUITY
+US2441991054,DE,Industrials,Farm & Heavy Construction Machinery,EQUITY
+CA0115321089,AGI.TO,Basic Materials,Gold,EQUITY
+US0640581007,BNY,Financial Services,Banks - Diversified,EQUITY
+US6937181088,PCAR,Industrials,Farm & Heavy Construction Machinery,EQUITY
+US40412C1018,HCA,Healthcare,Medical Care Facilities,EQUITY
+US0255371017,AEP,Utilities,Utilities - Regulated Electric,EQUITY
+KYG6683N1034,NU,Financial Services,Banks - Regional,EQUITY
+US1999081045,FIX,Industrials,Engineering & Construction,EQUITY
+US14448C1045,CARR,Industrials,Building Products & Equipment,EQUITY
+JP3893600001,8031.T,Industrials,Conglomerates,EQUITY
+US9182041080,VFC,Consumer Cyclical,Apparel Manufacturing,EQUITY
+US2166485019,COO,Healthcare,Medical Instruments & Supplies,EQUITY
+US58933Y1055,MRK,Healthcare,Drug Manufacturers - General,EQUITY
+LR0008862868,RCL,Consumer Cyclical,Travel Services,EQUITY
+IE00BWT6H894,FLUT,Consumer Cyclical,Gambling,EQUITY
+US0846701086,BRK-A,Financial Services,Insurance - Diversified,EQUITY
+US5312297220,LLYVK,Communication Services,Entertainment,EQUITY
+US4228061093,HEI,Industrials,Aerospace & Defense,EQUITY
+AU0000153280,CNQ.AX,Utilities,Utilities - Regulated Water,EQUITY
+US92537N1081,VRT,Industrials,Electrical Equipment & Parts,EQUITY
+US2533931026,DKS,Consumer Cyclical,Specialty Retail,EQUITY
+US7547301090,RJF,Financial Services,Asset Management,EQUITY
+CNE100000296,1211.HK,Consumer Cyclical,Auto Manufacturers,EQUITY
+US45687V1061,IR,Industrials,Specialty Industrial Machinery,EQUITY
+US0420682058,ARM,Technology,Semiconductors,EQUITY
+US68389X1054,ORCL,Technology,Software - Infrastructure,EQUITY
+CA21037X1006,CSU.TO,Technology,Software - Application,EQUITY
+US04016X1019,ARGX,Healthcare,Biotechnology,EQUITY
+US0091581068,APD,Basic Materials,Specialty Chemicals,EQUITY
+US23331A1097,DHI,Consumer Cyclical,Residential Construction,EQUITY
+US6098391054,MPWR,Technology,Semiconductors,EQUITY
+US7835132033,RYAAY,Industrials,Airlines,EQUITY
+US9892071054,ZBRA,Technology,Communication Equipment,EQUITY
+JP3143600009,8001.T,Industrials,Conglomerates,EQUITY
+US04626A1034,ALAB,Technology,Semiconductors,EQUITY
+US1844961078,CLH,Industrials,Waste Management,EQUITY
+US6293775085,NRG,Utilities,Utilities - Independent Power Producers,EQUITY
+US3647601083,GAP,Consumer Cyclical,Apparel Retail,EQUITY
+US8552441094,SBUX,Consumer Cyclical,Restaurants,EQUITY
+US49845K1016,KVYO,Technology,Software - Application,EQUITY
+US4435106079,HUBB,Industrials,Electrical Equipment & Parts,EQUITY
+US8725401090,TJX,Consumer Cyclical,Apparel Retail,EQUITY
+US1489291021,CAVA,Consumer Cyclical,Restaurants,EQUITY
+US03831W1080,APP,Communication Services,Advertising Agencies,EQUITY
+US3989051095,GPI,Consumer Cyclical,Auto & Truck Dealerships,EQUITY
+US5717481023,MRSH,Financial Services,Insurance Brokers,EQUITY
+US07831C1036,BRBR,Consumer Defensive,Packaged Foods,EQUITY
+CA45823T1066,IFC.TO,Financial Services,Insurance - Property & Casualty,EQUITY
+US88160R1014,TSLA,Consumer Cyclical,Auto Manufacturers,EQUITY
+US8010561020,SANM,Technology,Electronic Components,EQUITY
+US69331C1080,PCG,Utilities,Utilities - Regulated Electric,EQUITY
+US1714841087,CHDN,Consumer Cyclical,Gambling,EQUITY
+US70439P1084,PAY,Technology,Software - Infrastructure,EQUITY
+US4435731009,HUBS,Technology,Software - Application,EQUITY
+US7811541090,RBRK,Technology,Software - Infrastructure,EQUITY
+CA15101Q2071,CLS.TO,Technology,Electronic Components,EQUITY
+US5738741041,MRVL,Technology,Semiconductors,EQUITY
+LU1778762911,SPOT,Communication Services,Internet Content & Information,EQUITY
+US74276L1052,PRCT,Healthcare,Medical Devices,EQUITY
+IE00BDB6Q211,WTW,Financial Services,Insurance Brokers,EQUITY
+US9311421039,WMT,Consumer Defensive,Discount Stores,EQUITY
+US0268747849,AIG,Financial Services,Insurance - Diversified,EQUITY
+US47103J1051,JANX,Healthcare,Biotechnology,EQUITY
+US1729081059,CTAS,Industrials,Specialty Business Services,EQUITY
+US5380341090,LYV,Communication Services,Entertainment,EQUITY
+US09857L1089,BKNG,Consumer Cyclical,Travel Services,EQUITY
+CA11777Q2099,BTO.TO,Basic Materials,Gold,EQUITY
+BMG93A5A1010,VIK,Consumer Cyclical,Travel Services,EQUITY
+US3795772082,GMED,Healthcare,Medical Devices,EQUITY
+US01741R1023,ATI,Industrials,Metal Fabrication,EQUITY
+IE00B8KQN827,ETN,Industrials,Specialty Industrial Machinery,EQUITY
+US7010941042,PH,Industrials,Specialty Industrial Machinery,EQUITY
+US70450Y1038,PYPL,Financial Services,Credit Services,EQUITY
+US3635761097,AJG,Financial Services,Insurance Brokers,EQUITY
+IL0011762130,MNDY,Technology,Software - Application,EQUITY
+US26603R1068,DUOL,Technology,Software - Application,EQUITY
+US67103H1077,ORLY,Consumer Cyclical,Auto Parts,EQUITY
+US1273871087,CDNS,Technology,Software - Application,EQUITY
+IL0011794802,CLBT,Technology,Software - Infrastructure,EQUITY
+US60770K1079,MRNA,Healthcare,Biotechnology,EQUITY
+US1475281036,CASY,Consumer Cyclical,Specialty Retail,EQUITY
+US81764X1037,TTAN,Technology,Software - Application,EQUITY
+CA5503711080,LUG.TO,Basic Materials,Gold,EQUITY
+US7458671010,PHM,Consumer Cyclical,Residential Construction,EQUITY
+US8826811098,TXRH,Consumer Cyclical,Restaurants,EQUITY
+US1011371077,BSX,Healthcare,Medical Devices,EQUITY
+US3377381088,FISV,,,EQUITY
+US5324571083,LLY,Healthcare,Drug Manufacturers - General,EQUITY
+US8887871080,TOST,Technology,Software - Infrastructure,EQUITY
+US92345Y1064,VRSK,Industrials,Consulting Services,EQUITY
+US34959E1091,FTNT,Technology,Software - Infrastructure,EQUITY
+US8936411003,TDG,Industrials,Aerospace & Defense,EQUITY
+US1912161007,KO,Consumer Defensive,Beverages - Non-Alcoholic,EQUITY
+US35671D8570,FCX,Basic Materials,Copper,EQUITY
+US0028962076,ANF,Consumer Cyclical,Apparel Retail,EQUITY
+US29084Q1004,EME,Industrials,Engineering & Construction,EQUITY
+CA46579R1047,IVN.TO,Basic Materials,Other Industrial Metals & Mining,EQUITY
+US3696043013,GE,Industrials,Aerospace & Defense,EQUITY
+US11135F1012,AVGO,Technology,Semiconductors,EQUITY
+US18467V1098,YOU,Technology,Software - Application,EQUITY
+DE000A1EWWW0,ADS.DE,Consumer Cyclical,Footwear & Accessories,EQUITY
+US1491231015,CAT,Industrials,Farm & Heavy Construction Machinery,EQUITY
+US50155Q1004,KD,Technology,Information Technology Services,EQUITY
+US1729674242,C,Financial Services,Banks - Diversified,EQUITY
+US16679L1098,CHWY,Consumer Cyclical,Internet Retail,EQUITY
+CH0244767585,UBSG.SW,Financial Services,Banks - Diversified,EQUITY
+US8243481061,SHW,Basic Materials,Specialty Chemicals,EQUITY
+US56585A1025,MPC,Energy,Oil & Gas Refining & Marketing,EQUITY
+CA13646K1084,CP.TO,Industrials,Railroads,EQUITY
+US46120E6023,ISRG,Healthcare,Medical Instruments & Supplies,EQUITY
+IE0001827041,CRH,Basic Materials,Building Materials,EQUITY
+CA1130041058,BAM.TO,Financial Services,Asset Management,EQUITY
+NL0012969182,ADYEN.AS,Technology,Software - Infrastructure,EQUITY
+US26701L1008,BROS,Consumer Cyclical,Restaurants,EQUITY
+US88033G4073,THC,Healthcare,Medical Care Facilities,EQUITY
+US79466L3024,CRM,Technology,Software - Application,EQUITY
+JP3118000003,7936.T,Consumer Cyclical,Footwear & Accessories,EQUITY
+IE00BK9ZQ967,TT,Industrials,Building Products & Equipment,EQUITY
+CA11271J1075,BN.TO,Financial Services,Asset Management,EQUITY
+KYG3323L1005,FN,Technology,Electronic Components,EQUITY
+US8522341036,XYZ,Technology,Software - Infrastructure,EQUITY
+US8740391003,TSM,Technology,Semiconductors,EQUITY
+US75629V1044,RXRX,Healthcare,Biotechnology,EQUITY
+US09260D1072,BX,Financial Services,Asset Management,EQUITY
+KYG3730V1059,FTAI,Industrials,Aerospace & Defense,EQUITY
+CA36168Q1046,GFL.TO,Industrials,Waste Management,EQUITY
+US26142V1052,DKNG,Consumer Cyclical,Gambling,EQUITY
+US92532F1003,VRTX,Healthcare,Biotechnology,EQUITY
+JE00BS44BN30,BIRK,Consumer Cyclical,Footwear & Accessories,EQUITY
+US9699041011,WSM,Consumer Cyclical,Specialty Retail,EQUITY
+US3773221029,GKOS,Healthcare,Medical Devices,EQUITY
+US05722G1004,BKR,Energy,Oil & Gas Equipment & Services,EQUITY
+US6974351057,PANW,Technology,Software - Infrastructure,EQUITY
+US6323071042,NTRA,Healthcare,Diagnostics & Research,EQUITY
+US70432V1026,PAYC,Technology,Software - Application,EQUITY
+US21037T1097,CEG,Utilities,Utilities - Independent Power Producers,EQUITY
+US58733R1023,MELI,Consumer Cyclical,Internet Retail,EQUITY
+US26622P1075,DOCS,Healthcare,Health Information Services,EQUITY
+US0970231058,BA,Industrials,Aerospace & Defense,EQUITY
+CA3039011026,FFH.TO,Financial Services,Insurance - Property & Casualty,EQUITY
+BE0003739530,UCB.BR,Healthcare,Biotechnology,EQUITY
+US3687361044,GNRC,Industrials,Specialty Industrial Machinery,EQUITY
+CA82509L1076,SHOP.TO,Technology,Software - Application,EQUITY
+KR7005380001,005380.KS,Consumer Cyclical,Auto Manufacturers,EQUITY
+US0404132054,ANET,Technology,Computer Hardware,EQUITY
+US4432011082,HWM,Industrials,Aerospace & Defense,EQUITY
+US64110L1061,NFLX,Communication Services,Entertainment,EQUITY
+US89417E1091,TRV,Financial Services,Insurance - Property & Casualty,EQUITY
+US02043Q1076,ALNY,Healthcare,Biotechnology,EQUITY
+US90138F1021,TWLO,Technology,Software - Infrastructure,EQUITY
+US6174464486,MS,Financial Services,Capital Markets,EQUITY
+CA13321L1085,CCJ,Energy,Uranium,EQUITY
+JP3788600009,6501.T,Industrials,Conglomerates,EQUITY
+AU0000143729,SRL.AX,Industrials,Pollution & Treatment Controls,EQUITY
+CH0114405324,GRMN,Technology,Scientific & Technical Instruments,EQUITY
+US8270481091,SLGN,Consumer Cyclical,Packaging & Containers,EQUITY
+CA1363851017,CNQ.TO,Energy,Oil & Gas E&P,EQUITY
+US55354G1004,MSCI,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US1696561059,CMG,Consumer Cyclical,Restaurants,EQUITY
+US6200763075,MSI,Technology,Communication Equipment,EQUITY
+US0382221051,AMAT,Technology,Semiconductor Equipment & Materials,EQUITY
+US3032501047,FICO,Technology,Software - Application,EQUITY
+US7710491033,RBLX,Communication Services,Electronic Gaming & Multimedia,EQUITY
+US67066G1040,NVDA,Technology,Semiconductors,EQUITY
+US53947R1059,LOAR,Industrials,Aerospace & Defense,EQUITY
+US03783C1009,APPF,Technology,Software - Application,EQUITY
+CA01626P1484,ATD.TO,Consumer Cyclical,Specialty Retail,EQUITY
+KYG596691041,3690.HK,Consumer Cyclical,Internet Retail,EQUITY
+US9224751084,VEEV,Healthcare,Health Information Services,EQUITY
+US46625H1005,JPM,Financial Services,Banks - Diversified,EQUITY
+US57636Q1040,MA,Financial Services,Credit Services,EQUITY
+US98980L1017,ZM,Technology,Software - Application,EQUITY
+US9497461015,WFC,Financial Services,Banks - Diversified,EQUITY
+NL0015000IY2,UMG.AS,Communication Services,Entertainment,EQUITY
+US9837931008,XPO,Industrials,Trucking,EQUITY
+US0605051046,BAC,Financial Services,Banks - Diversified,EQUITY
+US24823R1059,DNLI,Healthcare,Biotechnology,EQUITY
+CA66987E2069,NG.TO,Basic Materials,Gold,EQUITY
+US5253271028,LDOS,Technology,Information Technology Services,EQUITY
+US10950A1060,BTSG,Healthcare,Health Information Services,EQUITY
+US0090661010,ABNB,Consumer Cyclical,Travel Services,EQUITY
+US4576693075,INSM,Healthcare,Biotechnology,EQUITY
+US3848021040,GWW,Industrials,Industrial Distribution,EQUITY
+US2435371073,DECK,Consumer Cyclical,Footwear & Accessories,EQUITY
+US75734B1008,RDDT,Communication Services,Internet Content & Information,EQUITY
+US5260571048,LEN,Consumer Cyclical,Residential Construction,EQUITY
+KYG0260P1028,AS,Consumer Cyclical,Leisure,EQUITY
+US01644J1088,ALKT,Technology,Software - Application,EQUITY
+US3755581036,GILD,Healthcare,Drug Manufacturers - General,EQUITY
+US91324P1021,UNH,Healthcare,Healthcare Plans,EQUITY
+CH0432492467,ALC,Healthcare,Medical Instruments & Supplies,EQUITY
+US46578C1080,IE,Basic Materials,Copper,EQUITY
+US9037311076,ULS,Industrials,Specialty Business Services,EQUITY
+US92686J1060,VKTX,Healthcare,Biotechnology,EQUITY
+CA3518581051,FNV.TO,Basic Materials,Gold,EQUITY
+CA74935Q1072,RBA,Industrials,Specialty Business Services,EQUITY
+US79589L1061,IOT,Technology,Software - Infrastructure,EQUITY
+US52661A1088,DRS,Industrials,Aerospace & Defense,EQUITY
+US82452J1097,FOUR,Technology,Software - Infrastructure,EQUITY
+US2681501092,DT,Technology,Software - Application,EQUITY
+US43300A2033,HLT,Consumer Cyclical,Lodging,EQUITY
+CA7800871021,RY.TO,Financial Services,Banks - Diversified,EQUITY
+US45784P1012,PODD,Healthcare,Medical Devices,EQUITY
+US27579R1041,EWBC,Financial Services,Banks - Regional,EQUITY
+US92840M1027,VST,Utilities,Utilities - Independent Power Producers,EQUITY
+US6153691059,MCO,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US0258161092,AXP,Financial Services,Credit Services,EQUITY
+CA0084741085,AEM.TO,Basic Materials,Gold,EQUITY
+US7607591002,RSG,Industrials,Waste Management,EQUITY
+US98887Q1040,ZLAB,Healthcare,Biotechnology,EQUITY
+SE0001515552,INDT.ST,Industrials,Industrial Distribution,EQUITY
+US02079K3059,GOOGL,Communication Services,Internet Content & Information,EQUITY
+CA8672241079,SU.TO,Energy,Oil & Gas Integrated,EQUITY
+US90353T1007,UBER,Technology,Software - Application,EQUITY
+US16411R2085,LNG,Energy,Oil & Gas Midstream,EQUITY
+US22266T1097,CPNG,Consumer Cyclical,Internet Retail,EQUITY
+US45841N1072,IBKR,Financial Services,Capital Markets,EQUITY
+CA9628791027,WPM.TO,Basic Materials,Gold,EQUITY
+IE00BLP1HW54,AON,Financial Services,Insurance Brokers,EQUITY
+US2546871060,DIS,Communication Services,Entertainment,EQUITY
+US7512121010,RL,Consumer Cyclical,Apparel Manufacturing,EQUITY
+US0028241000,ABT,Healthcare,Medical Devices,EQUITY
+US00287Y1091,ABBV,Healthcare,Drug Manufacturers - General,EQUITY
+US01609W1027,BABA,Consumer Cyclical,Internet Retail,EQUITY
+US0533321024,AZO,Consumer Cyclical,Auto Parts,EQUITY
+KYG875721634,0700.HK,Communication Services,Internet Content & Information,EQUITY
+US1442851036,CRS,Industrials,Metal Fabrication,EQUITY
+US2473617023,DAL,Industrials,Airlines,EQUITY
+US26875P1012,EOG,Energy,Oil & Gas E&P,EQUITY
+US26884L1098,EQT,Energy,Oil & Gas E&P,EQUITY
+US2788651006,ECL,Basic Materials,Specialty Chemicals,EQUITY
+GB0003718474,GAW.L,Consumer Cyclical,Leisure,EQUITY
+US4592001014,IBM,Technology,Information Technology Services,EQUITY
+US47215P1066,JD,Consumer Cyclical,Internet Retail,EQUITY
+US4824801009,KLAC,Technology,Semiconductor Equipment & Materials,EQUITY
+CA4969024047,K.TO,Basic Materials,Gold,EQUITY
+US5184391044,EL,Consumer Defensive,Household & Personal Products,EQUITY
+US5500211090,LULU,Consumer Cyclical,Apparel Retail,EQUITY
+US6811161099,OLLI,Consumer Defensive,Discount Stores,EQUITY
+US70975L1070,PEN,Healthcare,Medical Devices,EQUITY
+US75524B1044,RBC,Industrials,Tools & Accessories,EQUITY
+US6792951054,OKTA,Technology,Software - Infrastructure,EQUITY
+US7766961061,ROP,Technology,Software - Application,EQUITY
+KR7000660001,000660.KS,Technology,Semiconductors,EQUITY
+US88023U1016,SGI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",EQUITY
+US07725L1026,ONC,Healthcare,Biotechnology,EQUITY
+GB00BDSFG982,FTI,Energy,Oil & Gas Equipment & Services,EQUITY
+BRBPACUNT006,BPAC11.SA,Financial Services,Capital Markets,EQUITY
+US00827B1061,AFRM,Financial Services,Credit Services,EQUITY
+US19260Q1076,COIN,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US35969L1089,YMM,Technology,Software - Application,EQUITY
+US9344231041,WBD,Communication Services,Entertainment,EQUITY
+US21873S1087,CRWV,Technology,Software - Infrastructure,EQUITY
+CA36270K1021,GMIN.TO,Basic Materials,Gold,EQUITY
+US8760301072,TPR,Consumer Cyclical,Luxury Goods,EQUITY
+US16119P1084,CHTR,Communication Services,Telecom Services,EQUITY
+DE0008404005,ALV.DE,Financial Services,Insurance - Diversified,EQUITY
+US6311031081,NDAQ,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US4663131039,JBL,Technology,Electronic Components,EQUITY
+US7802871084,RGLD,Basic Materials,Gold,EQUITY
+DE0007164600,SAP.DE,Technology,Software - Application,EQUITY
+US4612021034,INTU,Technology,Software - Application,EQUITY
+US69608A1088,PLTR,Technology,Software - Infrastructure,EQUITY
+US22788C1053,CRWD,Technology,Software - Infrastructure,EQUITY
+CA8911605092,TD.TO,Financial Services,Banks - Diversified,EQUITY
+SG9999000020,FLEX,Technology,Electronic Components,EQUITY
+US03674X1063,AR,Energy,Oil & Gas E&P,EQUITY
+US03938L2034,MT,Basic Materials,Steel,EQUITY
+FR0014004L86,AM.PA,Industrials,Aerospace & Defense,EQUITY
+US0080731088,AVAV,Industrials,Aerospace & Defense,EQUITY
+US4581401001,INTC,Technology,Semiconductors,EQUITY
+US7731211089,RKLB,Industrials,Aerospace & Defense,EQUITY
+US75513E1010,RTX,Industrials,Aerospace & Defense,EQUITY
+US22052L1044,CTVA,Basic Materials,Agricultural Inputs,EQUITY
+DE000ENER6Y0,ENR.DE,Industrials,Specialty Industrial Machinery,EQUITY
+US98980G1022,ZS,Technology,Software - Infrastructure,EQUITY
+US8334451098,SNOW,Technology,Software - Application,EQUITY
+US6541061031,NKE,Consumer Cyclical,Footwear & Accessories,EQUITY
+AU000000BXB1,BXB.AX,Industrials,Specialty Business Services,EQUITY
+US9807451037,WWD,Industrials,Aerospace & Defense,EQUITY
+US4228062083,HEI-A,Industrials,Aerospace & Defense,EQUITY
+US03524A1088,BUD,Consumer Defensive,Beverages - Brewers,EQUITY
+US5010441013,KR,Consumer Defensive,Grocery Stores,EQUITY
+US85208M1027,SFM,Consumer Defensive,Grocery Stores,EQUITY
+US7181721090,PM,Consumer Defensive,Tobacco,EQUITY
+US4655621062,ITUB,Financial Services,Banks - Regional,EQUITY
+US25809K1051,DASH,Consumer Cyclical,Internet Retail,EQUITY
+US82846H4056,QXO,Industrials,Industrial Distribution,EQUITY
+US9170471026,URBN,Consumer Cyclical,Apparel Retail,EQUITY
+US72352L1061,PINS,Communication Services,Internet Content & Information,EQUITY
+US55318A1088,MNTN,Technology,Software - Application,EQUITY
+US29261A1007,EHC,Healthcare,Medical Care Facilities,EQUITY
+PTGAL0AM0009,GALP.LS,Energy,Oil & Gas Integrated,EQUITY
+US5951121038,MU,Technology,Semiconductors,EQUITY
+US1266501006,CVS,Healthcare,Healthcare Plans,EQUITY
+AU000000EVN4,EVN.AX,Basic Materials,Gold,EQUITY
+US02209S1033,MO,Consumer Defensive,Tobacco,EQUITY
+GB00BM8PJY71,NWG.L,Financial Services,Banks - Regional,EQUITY
+US78574H1041,SOC,Energy,Oil & Gas Drilling,EQUITY
+US40171V1008,GWRE,Technology,Software - Application,EQUITY
+US81141R1005,SE,Consumer Cyclical,Internet Retail,EQUITY
+KYG8068L1086,SN,Consumer Cyclical,"Furnishings, Fixtures & Appliances",EQUITY
+NL0012866412,BESI.AS,Technology,Semiconductor Equipment & Materials,EQUITY
+US8835561023,TMO,Healthcare,Diagnostics & Research,EQUITY
+US4884452065,ZVRA,Healthcare,Biotechnology,EQUITY
+KYG169101204,BLSH,Technology,Software - Infrastructure,EQUITY
+US0162551016,ALGN,Healthcare,Medical Instruments & Supplies,EQUITY
+US98389B1008,XEL,Utilities,Utilities - Regulated Electric,EQUITY
+US92556W1045,VIA,Technology,Software - Application,EQUITY
+US31816X1063,FLY,Industrials,Aerospace & Defense,EQUITY
+AU000000DRO2,DRO.AX,Industrials,Aerospace & Defense,EQUITY
+US3168411052,FIG,Technology,Software - Application,EQUITY
+IL0010811243,ESLT,Industrials,Aerospace & Defense,EQUITY
+US52476L1098,LGN,Industrials,Engineering & Construction,EQUITY
+US29364G1031,ETR,Utilities,Utilities - Regulated Electric,EQUITY
+GB0002875804,BATS.L,Consumer Defensive,Tobacco,EQUITY
+US7707001027,HOOD,Financial Services,Capital Markets,EQUITY
+US7611521078,RMD,Healthcare,Medical Instruments & Supplies,EQUITY
+US5128073062,LRCX,Technology,Semiconductor Equipment & Materials,EQUITY
+GB00BMHVL512,KLAR,Financial Services,Credit Services,EQUITY
+US64119N6085,NTSK,Technology,Software - Infrastructure,EQUITY
+US1468691027,CVNA,Consumer Cyclical,Auto & Truck Dealerships,EQUITY
+GB00B2B0DG97,REL.L,Industrials,Specialty Business Services,EQUITY
+US29977A1051,EVR,Financial Services,Capital Markets,EQUITY
+NL00150012L7,NAMS,Healthcare,Biotechnology,EQUITY
+US09175A2069,BMNR,Financial Services,Capital Markets,EQUITY
+JP3837800006,7741.T,Healthcare,Medical Instruments & Supplies,EQUITY
+US3493811034,FIGR,Financial Services,Capital Markets,EQUITY
+US91332U1016,U,Technology,Software - Application,EQUITY
+US09062X1037,BIIB,Healthcare,Drug Manufacturers - General,EQUITY
+US8168511090,SRE,Utilities,Utilities - Diversified,EQUITY
+US42226A1079,HQY,Healthcare,Health Information Services,EQUITY
+US5486611073,LOW,Consumer Cyclical,Home Improvement Retail,EQUITY
+FR0000120644,BN.PA,Consumer Defensive,Packaged Foods,EQUITY
+US2944291051,EFX,Industrials,Consulting Services,EQUITY
+FR0000121485,KER.PA,Consumer Cyclical,Luxury Goods,EQUITY
+US4370761029,HD,Consumer Cyclical,Home Improvement Retail,EQUITY
+US3119001044,FAST,Industrials,Industrial Distribution,EQUITY
+US89677Q1076,TCOM,Consumer Cyclical,Travel Services,EQUITY
+US8290731053,SSD,Basic Materials,Lumber & Wood Production,EQUITY
+NL0010696654,QURE,Healthcare,Biotechnology,EQUITY
+US09075V1026,BNTX,Healthcare,Biotechnology,EQUITY
+US91913Y1001,VLO,Energy,Oil & Gas Refining & Marketing,EQUITY
+US0567521085,BIDU,Communication Services,Internet Content & Information,EQUITY
+US87422Q1094,TLN,Utilities,Utilities - Independent Power Producers,EQUITY
+US4278661081,HSY,Consumer Defensive,Confectioners,EQUITY
+US87165B1035,SYF,Financial Services,Credit Services,EQUITY
+BMG762791017,ROIV,Healthcare,Biotechnology,EQUITY
+US60937P1066,MDB,Technology,Software - Infrastructure,EQUITY
+GB00B02J6398,ADM.L,Financial Services,Insurance - Property & Casualty,EQUITY
+US0846707026,BRK-B,Financial Services,Insurance - Diversified,EQUITY
+US58155Q1031,MCK,Healthcare,Medical Distribution,EQUITY
+US28176E1082,EW,Healthcare,Medical Devices,EQUITY
+US00187Y1001,APG,Industrials,Engineering & Construction,EQUITY
+US12503M1080,CBOE,Financial Services,Financial Data & Stock Exchanges,EQUITY
+GB00BRXH2664,AU,Basic Materials,Gold,EQUITY
+US2358511028,DHR,Healthcare,Diagnostics & Research,EQUITY
+CA4530384086,IMO.TO,Energy,Oil & Gas Integrated,EQUITY
+CA94106B1013,WCN,Industrials,Waste Management,EQUITY
+US2567461080,DLTR,Consumer Defensive,Discount Stores,EQUITY
+US5732841060,MLM,Basic Materials,Building Materials,EQUITY
+US6668071029,NOC,Industrials,Aerospace & Defense,EQUITY
+US77311W1018,RKT,Financial Services,Mortgage Finance,EQUITY
+US1667641005,CVX,Energy,Oil & Gas Integrated,EQUITY
+US86384P1093,STUB,Communication Services,Internet Content & Information,EQUITY
+US4859241048,KRMN,Industrials,Aerospace & Defense,EQUITY
+DK0060055861,CHEMM.CO,Healthcare,Medical Devices,EQUITY
+US2183521028,CORT,Healthcare,Biotechnology,EQUITY
+NL0000334118,ASM.AS,Technology,Semiconductor Equipment & Materials,EQUITY
+US1421521071,CAI,Healthcare,Biotechnology,EQUITY
+US98954M1018,ZG,Communication Services,Internet Content & Information,EQUITY
+US87162W1009,SNX,Technology,Electronics & Computer Distribution,EQUITY
+US98954M2008,Z,Communication Services,Internet Content & Information,EQUITY
+US42238D1072,HTFL,Healthcare,Health Information Services,EQUITY
+JP3436100006,9984.T,Communication Services,Telecom Services,EQUITY
+KYG254571055,CRDO,Technology,Semiconductors,EQUITY
+US61945C1036,MOS,Basic Materials,Agricultural Inputs,EQUITY
+US03073E1055,COR,Healthcare,Medical Distribution,EQUITY
+INE758T01015,ETERNAL.NS,Consumer Cyclical,Internet Retail,EQUITY
+CA4509131088,IMG.TO,Basic Materials,Gold,EQUITY
+IE000S9YS762,LIN,Basic Materials,Specialty Chemicals,EQUITY
+US31488V1070,FERG,Industrials,Industrial Distribution,EQUITY
+US83406F1021,SOFI,Financial Services,Credit Services,EQUITY
+US2786421030,EBAY,Consumer Cyclical,Internet Retail,EQUITY
+US6795801009,ODFL,Industrials,Trucking,EQUITY
+US12541W2098,CHRW,Industrials,Integrated Freight & Logistics,EQUITY
+US9831341071,WYNN,Consumer Cyclical,Resorts & Casinos,EQUITY
+AN8068571086,SLB,Energy,Oil & Gas Equipment & Services,EQUITY
+US3695501086,GD,Industrials,Aerospace & Defense,EQUITY
+US9581021055,WDC,Technology,Computer Hardware,EQUITY
+US0718131099,BAX,Healthcare,Medical Instruments & Supplies,EQUITY
+US1598641074,CRL,Healthcare,Diagnostics & Research,EQUITY
+US2566771059,DG,Consumer Defensive,Discount Stores,EQUITY
+US09290D1019,BLK,Financial Services,Asset Management,EQUITY
+IE00BKVD2N49,STX,Technology,Computer Hardware,EQUITY
+US2193501051,GLW,Technology,Electronic Components,EQUITY
+US7134481081,PEP,Consumer Defensive,Beverages - Non-Alcoholic,EQUITY
+US4781601046,JNJ,Healthcare,Drug Manufacturers - General,EQUITY
+US1152361010,BRO,Financial Services,Insurance Brokers,EQUITY
+US44107P1049,HST,Real Estate,REIT - Hotel & Motel,EQUITY
+US45866F1049,ICE,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US5007541064,KHC,Consumer Defensive,Packaged Foods,EQUITY
+US57667L1070,MTCH,Communication Services,Internet Content & Information,EQUITY
+US61174X1090,MNST,Consumer Defensive,Beverages - Non-Alcoholic,EQUITY
+US0394831020,ADM,Consumer Defensive,Farm Products,EQUITY
+US73278L1052,POOL,Industrials,Industrial Distribution,EQUITY
+US9291601097,VMC,Basic Materials,Building Materials,EQUITY
+US3021301094,EXPD,Industrials,Integrated Freight & Logistics,EQUITY
+US12572Q1058,CME,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US94106L1098,WM,Industrials,Waste Management,EQUITY
+US5950171042,MCHP,Technology,Semiconductors,EQUITY
+US5404241086,L,Financial Services,Insurance - Property & Casualty,EQUITY
+US0311001004,AME,Industrials,Specialty Industrial Machinery,EQUITY
+US4461501045,HBAN,Financial Services,Banks - Regional,EQUITY
+US22160N1090,CSGP,Real Estate,Real Estate Services,EQUITY
+US98419M1009,XYL,Industrials,Specialty Industrial Machinery,EQUITY
+US2971781057,ESS,Real Estate,REIT - Residential,EQUITY
+US62944T1051,NVR,Consumer Cyclical,Residential Construction,EQUITY
+US59522J1034,MAA,Real Estate,REIT - Residential,EQUITY
+US1101221083,BMY,Healthcare,Drug Manufacturers - General,EQUITY
+US6687711084,GEN,Technology,Software - Infrastructure,EQUITY
+US9418481035,WAT,Healthcare,Diagnostics & Research,EQUITY
+US8326964058,SJM,Consumer Defensive,Packaged Foods,EQUITY
+US2310211063,CMI,Industrials,Specialty Industrial Machinery,EQUITY
+US5719032022,MAR,Consumer Cyclical,Lodging,EQUITY
+US21036P1084,STZ,Consumer Defensive,Beverages - Brewers,EQUITY
+US7185461040,PSX,Energy,Oil & Gas Refining & Marketing,EQUITY
+US78410G1040,SBAC,Real Estate,REIT - Specialty,EQUITY
+BMG3223R1088,EG,Financial Services,Insurance - Reinsurance,EQUITY
+US5926881054,MTD,Healthcare,Diagnostics & Research,EQUITY
+US0530151036,ADP,Technology,Software - Application,EQUITY
+US36266G1076,GEHC,Healthcare,Medical Devices,EQUITY
+US25179M1036,DVN,Energy,Oil & Gas E&P,EQUITY
+US65339F1012,NEE,Utilities,Utilities - Regulated Electric,EQUITY
+US88262P1021,TPL,Energy,Oil & Gas E&P,EQUITY
+US8447411088,LUV,Industrials,Airlines,EQUITY
+US35137L1052,FOXA,Communication Services,Entertainment,EQUITY
+US4262811015,JKHY,Technology,Information Technology Services,EQUITY
+US8962391004,TRMB,Technology,Scientific & Technical Instruments,EQUITY
+US7782961038,ROST,Consumer Cyclical,Apparel Retail,EQUITY
+US8330341012,SNA,Industrials,Tools & Accessories,EQUITY
+US0200021014,ALL,Financial Services,Insurance - Property & Casualty,EQUITY
+US2538681030,DLR,Real Estate,REIT - Specialty,EQUITY
+US1331311027,CPT,Real Estate,REIT - Residential,EQUITY
+US2810201077,EIX,Utilities,Utilities - Regulated Electric,EQUITY
+US2333311072,DTE,Utilities,Utilities - Regulated Electric,EQUITY
+US00206R1023,T,Communication Services,Telecom Services,EQUITY
+US4404521001,HRL,Consumer Defensive,Packaged Foods,EQUITY
+US7170811035,PFE,Healthcare,Drug Manufacturers - General,EQUITY
+US09073M1045,TECH,Healthcare,Biotechnology,EQUITY
+IE00BLS09M33,PNR,Industrials,Specialty Industrial Machinery,EQUITY
+US5178341070,LVS,Consumer Cyclical,Resorts & Casinos,EQUITY
+US8793691069,TFX,Healthcare,Medical Instruments & Supplies,EQUITY
+US0495601058,ATO,Utilities,Utilities - Regulated Gas,EQUITY
+US7591EP1005,RF,Financial Services,Banks - Regional,EQUITY
+US3137451015,FRT,Real Estate,REIT - Retail,EQUITY
+US0758871091,BDX,Healthcare,Medical Instruments & Supplies,EQUITY
+US6703461052,NUE,Basic Materials,Steel,EQUITY
+US7443201022,PRU,Financial Services,Insurance - Life,EQUITY
+US5018892084,LKQ,Consumer Cyclical,Auto Parts,EQUITY
+US9113121068,UPS,Industrials,Integrated Freight & Logistics,EQUITY
+US3724601055,GPC,Consumer Cyclical,Auto Parts,EQUITY
+US8288061091,SPG,Real Estate,REIT - Retail,EQUITY
+US42824C1099,HPE,Technology,Communication Equipment,EQUITY
+IE00BY7QL619,JCI,Industrials,Building Products & Equipment,EQUITY
+US8807701029,TER,Technology,Semiconductor Equipment & Materials,EQUITY
+US04621X1081,AIZ,Financial Services,Insurance - Property & Casualty,EQUITY
+US60855R1005,MOH,Healthcare,Healthcare Plans,EQUITY
+US37959E1029,GL,Financial Services,Insurance - Life,EQUITY
+US69370C1009,PTC,Technology,Software - Application,EQUITY
+US4165151048,HIG,Financial Services,Insurance - Diversified,EQUITY
+US5132721045,LW,Consumer Defensive,Packaged Foods,EQUITY
+US83444M1018,SOLV,Healthcare,Medical Instruments & Supplies,EQUITY
+US3703341046,GIS,Consumer Defensive,Packaged Foods,EQUITY
+US5797802064,MKC,Consumer Defensive,Packaged Foods,EQUITY
+US6516391066,NEM,Basic Materials,Gold,EQUITY
+US29414B1044,EPAM,Technology,Information Technology Services,EQUITY
+US9026531049,UDR,Real Estate,REIT - Residential,EQUITY
+US83088M1027,SWKS,Technology,Semiconductors,EQUITY
+US9694571004,WMB,Energy,Oil & Gas Midstream,EQUITY
+US0304201033,AWK,Utilities,Utilities - Regulated Water,EQUITY
+US92343E1029,VRSN,Technology,Software - Infrastructure,EQUITY
+US29355A1079,ENPH,Technology,Solar,EQUITY
+US6934751057,PNC,Financial Services,Banks - Regional,EQUITY
+US9621661043,WY,Real Estate,REIT - Specialty,EQUITY
+US1720621010,CINF,Financial Services,Insurance - Property & Casualty,EQUITY
+US1431301027,KMX,Consumer Cyclical,Auto & Truck Dealerships,EQUITY
+US3364331070,FSLR,Technology,Solar,EQUITY
+US1713401024,CHD,Consumer Defensive,Household & Personal Products,EQUITY
+US00724F1012,ADBE,Technology,Software - Application,EQUITY
+US7588491032,REG,Real Estate,REIT - Retail,EQUITY
+US7140461093,RVTY,Healthcare,Diagnostics & Research,EQUITY
+US5261071071,LII,Industrials,Building Products & Equipment,EQUITY
+US0527691069,ADSK,Technology,Software - Application,EQUITY
+IE000IVNQZ81,TEL,Technology,Electronic Components,EQUITY
+US8718291078,SYY,Consumer Defensive,Food Distribution,EQUITY
+US57060D1081,MKTX,Financial Services,Capital Markets,EQUITY
+US9139031002,UHS,Healthcare,Medical Care Facilities,EQUITY
+US12008R1077,BLDR,Industrials,Building Products & Equipment,EQUITY
+US92276F1003,VTR,Real Estate,REIT - Healthcare Facilities,EQUITY
+US2091151041,ED,Utilities,Utilities - Regulated Electric,EQUITY
+US49446R1095,KIM,Real Estate,REIT - Retail,EQUITY
+US1508701034,CE,Basic Materials,Chemicals,EQUITY
+US25278X1090,FANG,,,
+NL0009434992,LYB,,,
+US65249B1098,NWSA,,,
+US03743Q1085,APA,Energy,Oil & Gas E&P,EQUITY
+US1890541097,CLX,Consumer Defensive,Household & Personal Products,EQUITY
+US30040W1080,ES,Utilities,Utilities - Regulated Electric,EQUITY
+US68902V1070,OTIS,Industrials,Specialty Industrial Machinery,EQUITY
+US2371941053,DRI,Consumer Cyclical,Restaurants,EQUITY
+BMG491BT1088,IVZ,Financial Services,Asset Management,EQUITY
+US7757111049,ROL,Consumer Cyclical,Personal Services,EQUITY
+US34959J1088,FTV,Technology,Scientific & Technical Instruments,EQUITY
+US35137L2043,FOX,Communication Services,Entertainment,EQUITY
+IE00BTN1Y115,MDT,Healthcare,Medical Devices,EQUITY
+US9100471096,UAL,Industrials,Airlines,EQUITY
+US49338L1035,KEYS,Technology,Scientific & Technical Instruments,EQUITY
+US45167R1041,IEX,Industrials,Specialty Industrial Machinery,EQUITY
+US7561091049,O,Real Estate,REIT - Retail,EQUITY
+US49271V1008,KDP,Consumer Defensive,Beverages - Non-Alcoholic,EQUITY
+US46187W1071,INVH,Real Estate,REIT - Residential,EQUITY
+BMG0450A1053,ACGL,Financial Services,Insurance - Diversified,EQUITY
+US20030N1019,CMCSA,Communication Services,Telecom Services,EQUITY
+US2058871029,CAG,Consumer Defensive,Packaged Foods,EQUITY
+US90384S3031,ULTA,Consumer Cyclical,Specialty Retail,EQUITY
+US14149Y1082,CAH,Healthcare,Medical Distribution,EQUITY
+US7445731067,PEG,Utilities,Utilities - Regulated Electric,EQUITY
+US65249B2088,NWS,Communication Services,Entertainment,EQUITY
+US30212P3038,EXPE,Consumer Cyclical,Travel Services,EQUITY
+US9029733048,USB,Financial Services,Banks - Regional,EQUITY
+US69351T1060,PPL,Utilities,Utilities - Regulated Electric,EQUITY
+US2521311074,DXCM,Healthcare,Medical Devices,EQUITY
+US7739031091,ROK,Industrials,Specialty Industrial Machinery,EQUITY
+US4932671088,KEY,Financial Services,Banks - Regional,EQUITY
+US0152711091,ARE,Real Estate,REIT - Office,EQUITY
+US0844231029,WRB,Financial Services,Insurance - Property & Casualty,EQUITY
+US17275R1023,CSCO,Technology,Communication Equipment,EQUITY
+US3167731005,FITB,Financial Services,Banks - Regional,EQUITY
+US3379321074,FE,Utilities,Utilities - Regulated Electric,EQUITY
+US1924461023,CTSH,Technology,Information Technology Services,EQUITY
+US4464131063,HII,Industrials,Aerospace & Defense,EQUITY
+US65473P1057,NI,Utilities,Utilities - Regulated Gas,EQUITY
+US4456581077,JBHT,Industrials,Integrated Freight & Logistics,EQUITY
+US6935061076,PPG,Basic Materials,Specialty Chemicals,EQUITY
+US2199481068,CPAY,Technology,Software - Infrastructure,EQUITY
+US74762E1029,PWR,Industrials,Engineering & Construction,EQUITY
+US0584981064,BALL,Consumer Cyclical,Packaging & Containers,EQUITY
+US40434L1052,HPQ,Technology,Computer Hardware,EQUITY
+US1941621039,CL,Consumer Defensive,Household & Personal Products,EQUITY
+US8740541094,TTWO,Communication Services,Electronic Gaming & Multimedia,EQUITY
+US30161N1019,EXC,Utilities,Utilities - Regulated Electric,EQUITY
+US8064071025,HSIC,Healthcare,Medical Distribution,EQUITY
+US1156372096,BF-B,Consumer Defensive,Beverages - Wineries & Distilleries,EQUITY
+US4595061015,IFF,Basic Materials,Specialty Chemicals,EQUITY
+US1255231003,CI,Healthcare,Healthcare Plans,EQUITY
+US6081901042,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",EQUITY
+US3156161024,FFIV,Technology,Software - Infrastructure,EQUITY
+US87612E1064,TGT,Consumer Defensive,Discount Stores,EQUITY
+US8545021011,SWK,Industrials,Tools & Accessories,EQUITY
+US98956P1021,ZBH,Healthcare,Medical Devices,EQUITY
+US4062161017,HAL,Energy,Oil & Gas Equipment & Services,EQUITY
+US1344291091,CPB,Consumer Defensive,Packaged Foods,EQUITY
+US29530P1021,ERIE,Financial Services,Insurance Brokers,EQUITY
+US20825C1045,COP,Energy,Oil & Gas E&P,EQUITY
+US22822V1017,CCI,Real Estate,REIT - Specialty,EQUITY
+CH1300646267,BG,Consumer Defensive,Farm Products,EQUITY
+US11133T1034,BR,Technology,Information Technology Services,EQUITY
+US9024941034,TSN,Consumer Defensive,Farm Products,EQUITY
+US00971T1016,AKAM,Technology,Software - Infrastructure,EQUITY
+US0536111091,AVY,Consumer Cyclical,Packaging & Containers,EQUITY
+US8793601050,TDY,Technology,Scientific & Technical Instruments,EQUITY
+IE00BFRT3W74,ALLE,Industrials,Security & Protection Services,EQUITY
+US45168D1046,IDXX,Healthcare,Diagnostics & Research,EQUITY
+US74144T1088,TROW,Financial Services,Asset Management,EQUITY
+US92556V1061,VTRS,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
+US0236081024,AEE,Utilities,Utilities - Regulated Electric,EQUITY
+US1258961002,CMS,Utilities,Utilities - Regulated Electric,EQUITY
+US5024311095,LHX,Industrials,Aerospace & Defense,EQUITY
+US9553061055,WST,Healthcare,Medical Instruments & Supplies,EQUITY
+US6558441084,NSC,Industrials,Railroads,EQUITY
+US03076C1062,AMP,Financial Services,Asset Management,EQUITY
+US9256521090,VICI,Real Estate,REIT - Diversified,EQUITY
+US46266C1053,IQV,Healthcare,Diagnostics & Research,EQUITY
+US2605571031,DOW,Basic Materials,Chemicals,EQUITY
+US49177J1025,KVUE,Consumer Defensive,Household & Personal Products,EQUITY
+US00846U1016,A,Healthcare,Diagnostics & Research,EQUITY
+US89832Q1094,TFC,Financial Services,Banks - Regional,EQUITY
+US25754A2015,DPZ,Consumer Cyclical,Restaurants,EQUITY
+US37940X1028,GPN,Industrials,Specialty Business Services,EQUITY
+US6556631025,NDSN,Industrials,Specialty Industrial Machinery,EQUITY
+US59156R1086,MET,Financial Services,Insurance - Life,EQUITY
+US92343V1044,VZ,Communication Services,Telecom Services,EQUITY
+US5529531015,MGM,Consumer Cyclical,Resorts & Casinos,EQUITY
+US3546131018,BEN,Financial Services,Asset Management,EQUITY
+US4448591028,HUM,Healthcare,Healthcare Plans,EQUITY
+US74251V1026,PFG,Financial Services,Asset Management,EQUITY
+US0311621009,AMGN,Healthcare,Drug Manufacturers - General,EQUITY
+US7043261079,PAYX,Technology,Software - Application,EQUITY
+US8832031012,TXT,Industrials,Aerospace & Defense,EQUITY
+US74834L1008,DGX,Healthcare,Diagnostics & Research,EQUITY
+US60871R2094,TAP,Consumer Defensive,Beverages - Brewers,EQUITY
+US12769G1004,CZR,Consumer Cyclical,Resorts & Casinos,EQUITY
+US1252691001,CF,Basic Materials,Agricultural Inputs,EQUITY
+US74460D1090,PSA,Real Estate,REIT - Industrial,EQUITY
+US30034W1062,EVRG,Utilities,Utilities - Regulated Electric,EQUITY
+US74340W1036,PLD,Real Estate,REIT - Industrial,EQUITY
+US3030751057,FDS,Financial Services,Financial Data & Stock Exchanges,EQUITY
+US4943681035,KMB,Consumer Defensive,Household & Personal Products,EQUITY
+US5049221055,LH,Healthcare,Diagnostics & Research,EQUITY
+US12514G1085,CDW,Technology,Information Technology Services,EQUITY
+US2910111044,EMR,Industrials,Specialty Industrial Machinery,EQUITY
+US1011211018,BXP,Real Estate,REIT - Office,EQUITY
+US4180561072,HAS,Consumer Cyclical,Leisure,EQUITY
+US7234841010,PNW,Utilities,Utilities - Regulated Electric,EQUITY
+IE00BFY8C754,STE,Healthcare,Medical Devices,EQUITY
+US0188021085,LNT,Utilities,Utilities - Regulated Electric,EQUITY
+US29476L1070,VMRK,Real Estate,REIT - Residential,EQUITY
+US0367521038,ELV,Healthcare,Healthcare Plans,EQUITY
+US5745991068,MAS,Industrials,Building Products & Equipment,EQUITY
+US8574771031,STT,Financial Services,Asset Management,EQUITY
+US6745991058,OXY,Energy,Oil & Gas E&P,EQUITY
+US6092071058,MDLZ,Consumer Defensive,Confectioners,EQUITY
+US6658591044,NTRS,Financial Services,Asset Management,EQUITY
+US6821891057,ON,Technology,Semiconductors,EQUITY
+US9078181081,UNP,Industrials,Railroads,EQUITY
+US92939U1060,WEC,Utilities,Utilities - Regulated Electric,EQUITY
+NL0009538784,NXPI,Technology,Semiconductors,EQUITY
+US64110D1046,NTAP,Technology,Software - Infrastructure,EQUITY
+US8923561067,TSCO,Consumer Cyclical,Specialty Retail,EQUITY
+US9022521051,TYL,Technology,Software - Application,EQUITY
+US2172041061,CPRT,Industrials,Specialty Business Services,EQUITY
+US26441C2044,DUK,Utilities,Utilities - Regulated Electric,EQUITY
+US46982L1089,J,Industrials,Engineering & Construction,EQUITY
+US31428X1063,FDX,Industrials,Integrated Freight & Logistics,EQUITY
+US8716071076,SNPS,Technology,Software - Infrastructure,EQUITY
+US2600031080,DOV,Industrials,Specialty Industrial Machinery,EQUITY
+US45337C1027,INCY,Healthcare,Biotechnology,EQUITY
+US4523081093,ITW,Industrials,Specialty Industrial Machinery,EQUITY
+US5801351017,MCD,Consumer Cyclical,Restaurants,EQUITY
+US0126531013,ALB,Basic Materials,Specialty Chemicals,EQUITY
+US49456B1017,KMI,Energy,Oil & Gas Midstream,EQUITY
+US0010551028,AFL,Financial Services,Insurance - Life,EQUITY
+US86800U3023,SMCI,Technology,Computer Hardware,EQUITY
+US42250P1030,DOC,Real Estate,REIT - Healthcare Facilities,EQUITY
+US9884981013,YUM,Consumer Cyclical,Restaurants,EQUITY
+US87612G1013,TRGP,Energy,Oil & Gas Midstream,EQUITY
+JE00BTDN8H13,APTV,Consumer Cyclical,Auto Parts,EQUITY
+US25746U1097,D,Utilities,Utilities - Regulated Electric,EQUITY
+US23918K1088,DVA,Healthcare,Medical Care Facilities,EQUITY
+US0997241064,BWA,Consumer Cyclical,Auto Parts,EQUITY
+US3024913036,FMC,Basic Materials,Agricultural Inputs,EQUITY
+US7475251036,QCOM,Technology,Semiconductors,EQUITY
+BMG667211046,NCLH,Consumer Cyclical,Travel Services,EQUITY
+US00130H1059,AES,Utilities,Utilities - Diversified,EQUITY
+US15135B1017,CNC,Healthcare,Healthcare Plans,EQUITY
+US03027X1000,AMT,Real Estate,REIT - Specialty,EQUITY
+US55261F1049,MTB,Financial Services,Banks - Regional,EQUITY
+US3453708600,F,Consumer Cyclical,Auto Manufacturers,EQUITY
+US5398301094,LMT,Industrials,Aerospace & Defense,EQUITY
+US15189T1079,CNP,Utilities,Utilities - Regulated Electric,EQUITY
+US1746101054,CFG,Financial Services,Banks - Regional,EQUITY
+US2774321002,EMN,Basic Materials,Specialty Chemicals,EQUITY
+US6951561090,PKG,Consumer Cyclical,Packaging & Containers,EQUITY
+US8825081040,TXN,Technology,Semiconductors,EQUITY
+US46284V1017,IRM,Real Estate,REIT - Specialty,EQUITY
+US31620M1062,FIS,Technology,Information Technology Services,EQUITY
+US30225T1025,EXR,Real Estate,REIT - Industrial,EQUITY
+US98138H1014,WDAY,Technology,Software - Application,EQUITY
+US1264081035,CSX,Industrials,Railroads,EQUITY
+IE00028FXN24,SW,Consumer Cyclical,Packaging & Containers,EQUITY
+US98978V1035,ZTS,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
+US29444U7000,EQIX,Real Estate,REIT - Specialty,EQUITY
+US8318652091,AOS,Industrials,Specialty Industrial Machinery,EQUITY
+US0865161014,BBY,Consumer Cyclical,Specialty Retail,EQUITY
+US1651677353,EXE,Energy,Oil & Gas E&P,EQUITY
+US80004C2008,SNDK,Technology,Computer Hardware,EQUITY
+US87256C1018,TKO,Communication Services,Entertainment,EQUITY
+US7509401086,RAL,Technology,Electronic Components,EQUITY
+US69932A2042,SKYD,Communication Services,Entertainment,EQUITY
+GB00B63H8491,RYCEF,Industrials,Aerospace & Defense,EQUITY
+CA15138B3065,CTARF,Energy,Oil & Gas E&P,EQUITY
+IE00BF0L3536,AIBRF,Financial Services,Banks - Regional,EQUITY
+CNE100003662,300750.SZ,Industrials,Electrical Equipment & Parts,EQUITY
+US0534841012,AVBC,Financial Services,Banks - Regional,EQUITY
+US8816242098,TEVA,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
+CA00208D4084,ARX.TO,Energy,Oil & Gas E&P,EQUITY
+CA53626M1041,LION,,,EQUITY
+PA1436583006,CCL,Consumer Cyclical,Travel Services,EQUITY
+US30231G1022,XOM,Energy,Oil & Gas Integrated,EQUITY
+CA8849038085,TRI,Industrials,Specialty Business Services,EQUITY
+CA3759161035,GIL.TO,Consumer Cyclical,Apparel Manufacturing,EQUITY
+US55405Y1001,MTSI,Technology,Semiconductors,EQUITY
+USN070592100,ASML,Technology,Semiconductor Equipment & Materials,EQUITY
+JP3733000008,6701.T,Technology,Information Technology Services,EQUITY
+US55024U1097,LITE,Technology,Communication Equipment,EQUITY
+US87151X1019,SYM,Industrials,Specialty Industrial Machinery,EQUITY
+US09061G1013,BMRN,Healthcare,Biotechnology,EQUITY
+JP3818000006,6702.T,Technology,Information Technology Services,EQUITY
+CNE100003F19,2359.HK,Healthcare,Diagnostics & Research,EQUITY
+KR7000270009,000270.KS,Consumer Cyclical,Auto Manufacturers,EQUITY
+CA06849F1080,B,Basic Materials,Gold,EQUITY
+US1271903049,CACI,Technology,Information Technology Services,EQUITY
+JP3890350006,8316.T,Financial Services,Banks - Diversified,EQUITY
+US45257U1088,IMNM,Healthcare,Biotechnology,EQUITY
+IL0011684185,FROG,Technology,Software - Application,EQUITY
+US3397501012,FND,Consumer Cyclical,Home Improvement Retail,EQUITY
+US0463531089,AZN,Healthcare,Drug Manufacturers - General,EQUITY
+US36118L1061,FUTU,Financial Services,Capital Markets,EQUITY
+US86366E1064,GPCR,Healthcare,Biotechnology,EQUITY
+US86627T1088,SMMT,Healthcare,Biotechnology,EQUITY
+US2787681061,ECHO,Communication Services,Telecom Services,EQUITY
+US23282W6057,CYTK,Healthcare,Biotechnology,EQUITY
+JP3435000009,6758.T,Technology,Consumer Electronics,EQUITY
+US69366J2006,PTCT,Healthcare,Biotechnology,EQUITY
+US45258J1025,IMVT,Healthcare,Biotechnology,EQUITY
+US5015751044,KYMR,Healthcare,Biotechnology,EQUITY
+US89422G1076,TVTX,Healthcare,Biotechnology,EQUITY
+US78467J1007,SSNC,Technology,Software - Application,EQUITY
+IE00B4Q5ZN47,JAZZ,Healthcare,Biotechnology,EQUITY
+US0994061002,BOOT,Consumer Cyclical,Apparel Retail,EQUITY
+US92556H2067,PARA,Technology,Software - Application,EQUITY
+US26614N1028,DD,Basic Materials,Specialty Chemicals,EQUITY
+JE00BJ1F3079,AMCR,Consumer Cyclical,Packaging & Containers,EQUITY
+US6826801036,OKE,Energy,Oil & Gas Midstream,EQUITY
+US4385161066,HON,Industrials,Conglomerates,EQUITY
+INE397D01024,BHARTIARTL.NS,Communication Services,Telecom Services,EQUITY
+US46578C1163,IE,Basic Materials,Copper,EQUITY
