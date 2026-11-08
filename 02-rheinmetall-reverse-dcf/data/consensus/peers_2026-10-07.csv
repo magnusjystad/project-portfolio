@@ -1,0 +1,144 @@
+company,metric,year,value
+BAE Systems,Sales,2021,21310.0
+BAE Systems,Sales,2022,23256.0
+BAE Systems,Sales,2023,25284.0
+BAE Systems,Sales,2024,28335.0
+BAE Systems,Sales,2025,30662.0
+BAE Systems,Sales,2026,33211.0
+BAE Systems,Sales,2027,36218.0
+BAE Systems,Sales,2028,39182.0
+BAE Systems,EBIT,2021,2205.0
+BAE Systems,EBIT,2022,2479.0
+BAE Systems,EBIT,2023,2682.0
+BAE Systems,EBIT,2024,3015.0
+BAE Systems,EBIT,2025,3322.0
+BAE Systems,EBIT,2026,3680.0
+BAE Systems,EBIT,2027,4092.0
+BAE Systems,EBIT,2028,4500.0
+BAE Systems,Net debt,2021,2160.0
+BAE Systems,Net debt,2022,2023.0
+BAE Systems,Net debt,2023,2464.0
+BAE Systems,Net debt,2024,6875.0
+BAE Systems,Net debt,2025,5613.0
+BAE Systems,Net debt,2026,4783.0
+BAE Systems,Net debt,2027,4168.0
+BAE Systems,Net debt,2028,3260.0
+Thales,Sales,2021,16192.0
+Thales,Sales,2022,17569.0
+Thales,Sales,2023,18428.0
+Thales,Sales,2024,20577.0
+Thales,Sales,2025,22136.0
+Thales,Sales,2026,23833.0
+Thales,Sales,2027,25964.0
+Thales,Sales,2028,28243.0
+Thales,EBIT,2021,1649.0
+Thales,EBIT,2022,1935.0
+Thales,EBIT,2023,2132.0
+Thales,EBIT,2024,2419.0
+Thales,EBIT,2025,2740.0
+Thales,EBIT,2026,3003.0
+Thales,EBIT,2027,3420.0
+Thales,EBIT,2028,3811.0
+Thales,Net debt,2021,795.0
+Thales,Net debt,2022,35.2
+Thales,Net debt,2023,4000.0
+Thales,Net debt,2024,3044.0
+Thales,Net debt,2025,1618.0
+Thales,Net debt,2026,246.0
+Thales,Net debt,2027,340.0
+Thales,Net debt,2028,-3498.0
+Leonardo,Sales,2021,14135.0
+Leonardo,Sales,2022,14713.0
+Leonardo,Sales,2023,15291.0
+Leonardo,Sales,2024,17763.0
+Leonardo,Sales,2025,19503.0
+Leonardo,Sales,2026,22314.0
+Leonardo,Sales,2027,24801.0
+Leonardo,Sales,2028,26977.0
+Leonardo,EBIT,2021,1123.0
+Leonardo,EBIT,2022,1218.0
+Leonardo,EBIT,2023,1289.0
+Leonardo,EBIT,2024,1525.0
+Leonardo,EBIT,2025,1752.0
+Leonardo,EBIT,2026,2204.0
+Leonardo,EBIT,2027,2612.0
+Leonardo,EBIT,2028,3003.0
+Leonardo,Net debt,2021,3122.0
+Leonardo,Net debt,2023,2323.0
+Leonardo,Net debt,2024,1795.0
+Leonardo,Net debt,2025,1001.0
+Leonardo,Net debt,2026,2067.0
+Leonardo,Net debt,2027,1236.0
+Leonardo,Net debt,2028,258.0
+Saab,Sales,2021,39154.0
+Saab,Sales,2022,42006.0
+Saab,Sales,2023,51609.0
+Saab,Sales,2024,63751.0
+Saab,Sales,2025,79146.0
+Saab,Sales,2026,98001.0
+Saab,Sales,2027,119163.0
+Saab,Sales,2028,139708.0
+Saab,EBIT,2021,2888.0
+Saab,EBIT,2022,3274.0
+Saab,EBIT,2023,4272.0
+Saab,EBIT,2024,5662.0
+Saab,EBIT,2025,8066.0
+Saab,EBIT,2026,10562.0
+Saab,EBIT,2027,13335.0
+Saab,EBIT,2028,16097.0
+Saab,Net debt,2021,2125.0
+Saab,Net debt,2022,-2432.0
+Saab,Net debt,2023,-2343.0
+Saab,Net debt,2024,-2211.0
+Saab,Net debt,2025,-3989.0
+Saab,Net debt,2026,-4226.0
+Saab,Net debt,2027,-4756.0
+Saab,Net debt,2028,-7949.0
+Kongsberg Gruppen,Sales,2021,27449.0
+Kongsberg Gruppen,Sales,2022,31803.0
+Kongsberg Gruppen,Sales,2023,40617.0
+Kongsberg Gruppen,Sales,2024,48872.0
+Kongsberg Gruppen,Sales,2025,58599.0
+Kongsberg Gruppen,Sales,2026,42858.0
+Kongsberg Gruppen,Sales,2027,64615.0
+Kongsberg Gruppen,Sales,2028,86427.0
+Kongsberg Gruppen,EBIT,2021,2863.0
+Kongsberg Gruppen,EBIT,2022,3309.0
+Kongsberg Gruppen,EBIT,2023,4600.0
+Kongsberg Gruppen,EBIT,2024,6507.0
+Kongsberg Gruppen,EBIT,2025,9296.0
+Kongsberg Gruppen,EBIT,2026,7167.0
+Kongsberg Gruppen,EBIT,2027,11646.0
+Kongsberg Gruppen,EBIT,2028,16199.0
+Kongsberg Gruppen,Net debt,2021,-5668.0
+Kongsberg Gruppen,Net debt,2022,-1479.0
+Kongsberg Gruppen,Net debt,2023,-2975.0
+Kongsberg Gruppen,Net debt,2024,-9604.0
+Kongsberg Gruppen,Net debt,2025,-10932.0
+Kongsberg Gruppen,Net debt,2026,-14213.0
+Kongsberg Gruppen,Net debt,2027,-15368.0
+Kongsberg Gruppen,Net debt,2028,-17285.0
+Rheinmetall,Sales,2021,5658.0
+Rheinmetall,Sales,2022,6410.0
+Rheinmetall,Sales,2023,7176.0
+Rheinmetall,Sales,2024,9751.0
+Rheinmetall,Sales,2025,9935.0
+Rheinmetall,Sales,2026,13919.0
+Rheinmetall,Sales,2027,18544.0
+Rheinmetall,Sales,2028,24489.0
+Rheinmetall,EBIT,2021,608.0
+Rheinmetall,EBIT,2022,731.0
+Rheinmetall,EBIT,2023,897.0
+Rheinmetall,EBIT,2024,1345.0
+Rheinmetall,EBIT,2025,1684.0
+Rheinmetall,EBIT,2026,2557.0
+Rheinmetall,EBIT,2027,3612.0
+Rheinmetall,EBIT,2028,4937.0
+Rheinmetall,Net debt,2021,-118.0
+Rheinmetall,Net debt,2022,426.0
+Rheinmetall,Net debt,2023,1063.0
+Rheinmetall,Net debt,2024,1239.0
+Rheinmetall,Net debt,2025,-369.0
+Rheinmetall,Net debt,2026,-1761.0
+Rheinmetall,Net debt,2027,-2946.0
+Rheinmetall,Net debt,2028,-4703.0

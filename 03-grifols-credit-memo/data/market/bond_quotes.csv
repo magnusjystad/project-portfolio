@@ -1,0 +1,4 @@
+isin,instrument,price,price_date,venue,source,retrieved,note
+XS2393001891,3.875% senior unsecured notes due 15 Oct 2028 (EUR 1.4bn),97.47,2026-10-07,Börse Frankfurt (open market),https://www.boerse-frankfurt.de/bond/xs2393001891 (api.live.deutsche-boerse.com data_for_datasheet; yieldLastPrice 5.2777%),2026-10-07,current
+XS2961445090,7.125% senior secured notes due 1 May 2030 (EUR 1.3bn),104.10,2026-06-19,TRADEcho (via finanzen.net),https://www.finanzen.net/anleihen/xs2961445090,2026-10-07,STALE: last print 19 Jun 2026; not traded on a German exchange; Börse Frankfurt has no page for this ISIN
+XS2805351843,7.500% senior secured notes due 1 May 2030 (EUR 800m outstanding),104.25,2026-05-19,TRADEcho (via finanzen.net),https://www.finanzen.net/anleihen/xs2805351843,2026-10-07,STALE: last print 19 May 2026

@@ -1,0 +1,144 @@
+{
+  "w_base": {
+    "EV": 12940.527600000001,
+    "Admin claims": 647.0263800000001,
+    "Secured claims": 6550.950877192982,
+    "Secured recovery": 1.0,
+    "Unsecured claims": 2978.7744360902257,
+    "Unsecured recovery": 1.0,
+    "Residual to equity": 2763.775906716792
+  },
+  "w_down": {
+    "EV": 11447.3898,
+    "Admin claims": 572.36949,
+    "Secured claims": 6550.950877192982,
+    "Secured recovery": 1.0,
+    "Unsecured claims": 2978.7744360902257,
+    "Unsecured recovery": 1.0,
+    "Residual to equity": 1345.294996716792
+  },
+  "gap": -0.019978423670392376,
+  "rec": "Overweight the 3.875% unsecured 2028s, Underweight the 7.125% secured 2030s",
+  "hy_oas": [
+    0.0315,
+    "2026-10-06"
+  ],
+  "sp": {
+    "rating": "BB-",
+    "y1": 0.0087,
+    "y2": 0.0271,
+    "y3": 0.0462
+  },
+  "plasma_eq": 0.48385852090032155,
+  "bund": {
+    "1": 0.0292,
+    "2": 0.030699999999999998,
+    "3": 0.0311,
+    "4": 0.0316
+  },
+  "prop": {
+    "EBITDA": 1757.732,
+    "Net debt": 8214.336,
+    "Leverage": 4.6732584944690085
+  },
+  "refi_base": {
+    "Net debt Oct 2028": 6176.342158939015,
+    "Credit-agreement EBITDA (LTM Oct 2028)": 2160.054,
+    "Net leverage Oct 2028 (x)": 2.8593461825209068,
+    "Unsecured notes due Oct 2028": 2018.7744360902257,
+    "Cash + undrawn RCF, 30 Jun 2026": 1974.438596491228,
+    "FCF after dividends, Jul 2026 \u2013 Oct 2028": 1621.6578410609854,
+    "Liquidity available before maturity": 3596.0964375522135,
+    "Liquidity / notes due (x)": 1.7813265183389178,
+    "Leverage at or below 3.5x target": true
+  },
+  "refi_down": {
+    "Net debt Oct 2028": 6733.588408939014,
+    "Credit-agreement EBITDA (LTM Oct 2028)": 1913.1727500000002,
+    "Net leverage Oct 2028 (x)": 3.5195924722108933,
+    "Unsecured notes due Oct 2028": 2018.7744360902257,
+    "Cash + undrawn RCF, 30 Jun 2026": 1974.438596491228,
+    "FCF after dividends, Jul 2026 \u2013 Oct 2028": 1064.4115910609862,
+    "Liquidity available before maturity": 3038.8501875522143,
+    "Liquidity / notes due (x)": 1.5052945654679362,
+    "Leverage at or below 3.5x target": false
+  },
+  "be_sec": 3.6143109753069123,
+  "be_uns": 5.257769663850989,
+  "px_neutral": 103.26063673375666,
+  "px_flip": 102.82926044808187,
+  "m_flip": 4.547083214404978,
+  "m_neutral": 4.724946708835942,
+  "yields": {
+    "7.500% senior secured notes": {
+      "price": 104.25,
+      "coupon": 7.5,
+      "ytm": 0.06245971170449094,
+      "ytw": 0.012787259394884565,
+      "worst": "call 2026-10-24 at 104",
+      "accrued": 3.28125,
+      "candidates": [
+        [
+          "maturity 2030-05-01",
+          0.06245971170449094
+        ],
+        [
+          "call 2026-10-24 at 104",
+          0.012787259394884565
+        ],
+        [
+          "call 2027-05-01 at 102",
+          0.03383525497846973
+        ],
+        [
+          "call 2028-05-01 at 100",
+          0.04699417659719485
+        ]
+      ]
+    },
+    "7.125% senior secured notes": {
+      "price": 104.1,
+      "coupon": 7.125,
+      "ytm": 0.059170503036364286,
+      "ytw": 0.03282743967584412,
+      "worst": "call 2027-05-01 at 102",
+      "accrued": 3.1171875,
+      "candidates": [
+        [
+          "maturity 2030-05-01",
+          0.059170503036364286
+        ],
+        [
+          "call 2026-10-24 at 104",
+          0.044494824779318876
+        ],
+        [
+          "call 2027-05-01 at 102",
+          0.03282743967584412
+        ],
+        [
+          "call 2028-05-01 at 100",
+          0.044267048175305135
+        ]
+      ]
+    },
+    "3.875% senior unsecured notes": {
+      "price": 97.47,
+      "coupon": 3.875,
+      "ytm": 0.05280586334623649,
+      "ytw": 0.05280586334623649,
+      "worst": "maturity 2028-10-15",
+      "accrued": 1.8739754098360655,
+      "candidates": [
+        [
+          "maturity 2028-10-15",
+          0.05280586334623649
+        ],
+        [
+          "call 2026-10-24 at 100",
+          0.05411091319922723
+        ]
+      ]
+    }
+  }
+}

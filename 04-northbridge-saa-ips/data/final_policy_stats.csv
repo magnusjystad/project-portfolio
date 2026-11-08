@@ -1,0 +1,17 @@
+,0
+Expected return (arith.),0.084757
+"Expected return (compound, approx.)",0.07766999671554001
+Volatility,0.11905463690642207
+Equities,0.5900000000000001
+Treasuries + TIPS,0.15
+Gold + commodities,0.1
+"Credit (LQD, HYG)",0.16
+"P(real value preserved, 20y)",0.5524
+Median real value after 20y ($bn),2.144963154909819
+P(drawdown worse than -30%),0.4752
+Median max drawdown,-0.293667818414531
+P(1-year loss worse than -20%),0.003175
+"P(1-year loss worse than -20%), year 1",0.0022
+Median annual net return,0.07373480034871527
+Median real spending yr 1 ($m),88.75992958686679
+Median real spending yr 20 ($m),92.35257774965919

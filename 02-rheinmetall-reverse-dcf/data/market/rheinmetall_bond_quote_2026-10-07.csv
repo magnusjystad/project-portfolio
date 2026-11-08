@@ -1,0 +1,2 @@
+isin,issuer,coupon,issue_date,maturity,issue_price,amount_eur,last_price,last_price_time,bid_prev,ask_prev,source
+XS3344481935,Rheinmetall AG,3.375,2026-05-28,2031-05-28,99.467,500000000,96.60,2026-10-07 09:17:26,96.71,97.38,"Börse Frankfurt bond page (live.deutsche-boerse.com/bond/XS3344481935), retrieved 7 Oct 2026; coupon, dates, amount from the prospectus (data/source/Rheinmetall-Bond-05-2026-Prospectus.pdf)"

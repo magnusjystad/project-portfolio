@@ -80,6 +80,3 @@ cd notebooks && jupyter nbconvert --to notebook --execute --inplace valuation.ip
 python src/build_workbook.py && python src/check_workbook.py
 python report/build_report.py
 ```
-
-data/source/
-data/consensus/*.txt

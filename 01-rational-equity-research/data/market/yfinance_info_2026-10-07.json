@@ -1,0 +1,38 @@
+{
+ "RAA.DE": {
+  "sharesOutstanding": 11370000,
+  "impliedSharesOutstanding": 11370000,
+  "marketCap": 6441104896,
+  "currency": "EUR",
+  "currentPrice": 566.5,
+  "previousClose": 577.5,
+  "longName": "RATIONAL Aktiengesellschaft"
+ },
+ "MIDD": {
+  "sharesOutstanding": 45222349,
+  "impliedSharesOutstanding": 45222349,
+  "marketCap": 4725057024,
+  "currency": "USD",
+  "currentPrice": 104.485,
+  "previousClose": 105.92,
+  "longName": "The Middleby Corporation"
+ },
+ "EPRO-B.ST": {
+  "sharesOutstanding": 279370682,
+  "impliedSharesOutstanding": 287397450,
+  "marketCap": 13148432384,
+  "currency": "SEK",
+  "currentPrice": 45.75,
+  "previousClose": 46.75,
+  "longName": "Electrolux Professional AB (publ)"
+ },
+ "6465.T": {
+  "sharesOutstanding": 139325155,
+  "impliedSharesOutstanding": 139325155,
+  "marketCap": 734522179584,
+  "currency": "JPY",
+  "currentPrice": 5272.0,
+  "previousClose": 5200.0,
+  "longName": "Hoshizaki Corporation"
+ }
+}
