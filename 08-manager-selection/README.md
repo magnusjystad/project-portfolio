@@ -29,7 +29,7 @@ ACWI: the highest-scoring active fund, DODWX (3.79 of 5, 85% active share), has 
   - Active share vs. ACWI, matched by ISIN from N-PORT, with an issuer (LEI) robustness check.
   - Top-10 weight and unlisted (Level 3) weight.
   - GICS sector and region tilts.
-- **Scoring and decision:** each pillar is scored 1–5 with banded rules written in the notebook before the results were viewed. The brief's decision rule recommends the highest-scoring fund unless its IR is below 0.2, in which case it recommends ACWI. Four alternative pillar weightings are tested.
+- **Scoring and decision:** each pillar is scored 1–5 with banded rules written in the notebook before the results were viewed. The decision rule recommends the highest-scoring fund unless its IR is below 0.2, in which case it recommends ACWI. Four alternative pillar weightings are tested.
 
 | | ANWPX | DODWX | PRGSX | ACWI |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ Deliverables:
 
 ## Limitations
 - Ten years is short: even PRGSX's IR of 0.53 is only about 1.7 standard errors from zero.
-- The brief's share classes are used (ANWPX Class A with its load, PRGSX Investor). Cheaper classes would score better on price.
+- The share classes used are ANWPX Class A (with its load) and PRGSX Investor. Cheaper classes would score better on price.
 - Holdings are one N-PORT snapshot. ACWI files N-PORT only for April and July, so the June fund holdings are compared with the July and April index, which agree within one point.
 - Process checks reduce each prospectus to four testable statements. Manager ownership, pay and analyst turnover are not in the data and are covered in the meeting questions instead.
-- The brief calls PRGSX "concentrated", but its prospectus says "broadly diversified". The checks test the prospectus wording.
+- PRGSX was shortlisted as a "concentrated" fund, but its prospectus says "broadly diversified". The checks test the prospectus wording.
 
 ## How to run
 ```bash

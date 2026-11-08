@@ -4,7 +4,7 @@
 Is Rational AG (Xetra: RAA), the world leader in commercial combi-steamers, a Buy, Hold or Sell at €566.50 on 7 October 2026, and what is it worth in 12 months?
 
 ## Answer
-Sell: a 10-year DCF using the brief's CAPM cost of equity (9.79%) gives a probability-weighted 12-month target of €414, 27% below the share price.
+Sell: a 10-year DCF using a CAPM cost of equity of 9.79% gives a probability-weighted 12-month target of €414, 27% below the share price.
 
 ## Data
 | Item | Source | File |

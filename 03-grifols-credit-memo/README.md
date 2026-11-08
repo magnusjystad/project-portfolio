@@ -4,7 +4,7 @@
 Which Grifols bond offers better risk-adjusted value on 7 October 2026: the €1.3bn 7.125% senior secured notes due May 2030 or the €1.4bn 3.875% senior unsecured notes due October 2028?
 
 ## Answer
-The unsecured 2028s: their expected return is 200bp higher (5.28% vs 3.28%) because both bonds recover 100% in the brief's 6.0x downside waterfall, and the secured notes trade above their call price, so their yield-to-worst runs only to the May 2027 call at 102 → Overweight the 3.875% 2028s, Underweight the 7.125% 2030s.
+The unsecured 2028s: their expected return is 200bp higher (5.28% vs 3.28%) because both bonds recover 100% in a 6.0x downside waterfall, and the secured notes trade above their call price, so their yield-to-worst runs only to the May 2027 call at 102 → Overweight the 3.875% 2028s, Underweight the 7.125% 2030s.
 
 ## Data
 | Item | Source | File |
@@ -30,7 +30,7 @@ The unsecured 2028s: their expected return is 200bp higher (5.28% vs 3.28%) beca
   - Base: revenue flat in 2026, then +5% a year; margin 25.0 / 25.5 / 26.0%. 2026 FCF of €558m sits inside the €500–575m guidance.
   - Downside: margin −300bp. This equals a 10% plasma-cost rise if plasma is 48% of cost of sales, which Grifols does not disclose.
   - Output: leverage and liquidity at the October 2028 maturity.
-- **Recovery waterfall** (following the brief): default in 2028; EV = downside 2028 EBITDA × 6.0x; 5% administrative claims; secured claims (term loans, RCF 80% drawn, secured notes) pari passu; then unsecured.
+- **Recovery waterfall:** default in 2028; EV = downside 2028 EBITDA × 6.0x; 5% administrative claims; secured claims (term loans, RCF 80% drawn, secured notes) pari passu; then unsecured.
 - **Relative value:** spread over the matching-maturity Bund, spread per turn of leverage, and expected return = YTW − PD × (1 − recovery), with PD = S&P BB- 3-year cumulative rate. Recommendation rule: Overweight the higher expected return; Neutral if the gap is under 50bp.
 - **Checks:** `src/check_workbook.py` recalculates the Excel model in LibreOffice and matches every yield, projection, recovery and the recommendation to the Python model (all pass).
 
@@ -58,9 +58,9 @@ The unsecured 2028s: their expected return is 200bp higher (5.28% vs 3.28%) beca
 Full memo (8 pages): [`report/grifols_credit_memo.pdf`](report/grifols_credit_memo.pdf). Excel model: [`model/grifols_credit_model.xlsx`](model/grifols_credit_model.xlsx).
 
 ## Limitations
-- **The secured price is stale.** The 2030 notes do not trade on a German exchange, and the last free print is TRADEcho on 19 June 2026. The brief's source (Börse Frankfurt) has no page for them.
+- **The secured price is stale.** The 2030 notes do not trade on a German exchange, and the last free print is TRADEcho on 19 June 2026. Börse Frankfurt has no page for them.
 - **Plasma cost per litre is not disclosed** as a share of cost of sales, so the downside models one 300bp shock and states the plasma share that makes the two descriptions equal.
-- **The waterfall follows the brief and is generous at 6.0x.** It ignores structural subordination, collateral gaps and the GIC liability's exact ranking.
+- **The 6.0x waterfall multiple is generous.** It ignores structural subordination, collateral gaps and the GIC liability's exact ranking.
 - **Default rates come from S&P's 2024 study**, because the 2025 study is not freely available.
 - **Flat assumptions:** capex, taxes, working capital, dividends and base rates are held at today's levels.
 
