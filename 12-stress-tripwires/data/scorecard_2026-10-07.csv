@@ -1,0 +1,18 @@
+id,tripwire,date,status,type
+1,Funding: SOFR minus IORB,2026-10-06,ok,market
+2,Funding: Standing Repo Facility usage,2026-10-06,ok,market
+3,Rates volatility: MOVE index,2026-10-06,ok,market
+4,"US 30-year yield, 20-day rise",2026-10-06,ok,market
+5,"High-yield spread, 20-day widening",2026-10-06,ok,market
+6,"Leveraged funds' Treasury futures shorts, weekly change",2026-09-29,ok,market
+7,Fed central-bank swap lines outstanding,2026-09-30,ok,market
+8,"USD/JPY, 20-day move either way",2026-10-02,ok,market
+9,JGB 30-year yield,2026-10-06,near,market
+10,"Brent crude futures, 20-day rise",2026-10-06,ok,market
+11,Equity volatility: VIX,2026-10-06,ok,market
+12,Private credit defaults (Fitch US TTM rate),2026-09-14,near,event
+13,Bank failures and Fed emergency lending,2026-10-07,ok,event
+14,Life insurer liquidity,2026-09-23,near,event
+15,Non-traded private credit fund redemptions,2026-10-02,near,event
+16,GPU-backed / AI data-centre debt,2026-10-07,ok,event
+17,Treasury margins and clearing,2026-10-07,ok,event

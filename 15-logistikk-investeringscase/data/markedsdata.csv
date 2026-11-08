@@ -1,0 +1,26 @@
+Nøkkel,Verdi,Enhet,Beskrivelse,Kilde,Status
+areal,21012,m2,"Areal Fugleåsen 7 (lager/logistikk), leietaker Norsk Lastbærer Pool AS","PEF kvartalsrapport Q3 2026, eiendomsliste; PEF bærekraftsrapport 2025 (energimerke A lager / B kontor)",verifisert
+leie_2025,21.158918,NOK mill.,"Driftsinntekter Fugleåsen 7 AS 2025 (eierselskapet, forretningsfører Pareto Alternative Investments)","Regnskapsregisteret, org.nr. 999296947",verifisert
+kpi_nov_2025,0.030,andel,"KPI-vekst november 2025, brukt til regulering av leie for 2026","Finanstilsynet, Finansielt utsyn juni 2026",verifisert
+kpi_2026,0.033,andel,"KPI-anslag 2026 (årsvekst)","Norges Bank, Pengepolitisk rapport 3/2026, vedleggstabell 3",verifisert
+kpi_2027,0.026,andel,"KPI-anslag 2027","Norges Bank, PPR 3/2026",verifisert
+kpi_2028,0.023,andel,"KPI-anslag 2028","Norges Bank, PPR 3/2026",verifisert
+kpi_2029,0.021,andel,"KPI-anslag 2029","Norges Bank, PPR 3/2026",verifisert
+kpi_lang,0.020,andel,"KPI fra 2030: inflasjonsmålet","Norges Bank (inflasjonsmål 2 %)",verifisert
+leieavtale_start,2013.75,år,"Driftsstart oktober 2013, 20 års leieavtale med Bulk Eiendom","tungt.no / Logistikk & Ledelse 1.3.2012",verifisert (artikkel); faktisk startdato og opsjoner ukjent
+leieavtale_lengde,20,år,"Opprinnelig leietid","tungt.no 1.3.2012",verifisert (artikkel)
+markedsleie_langhus_lav,1400,NOK/m2/år,"Markedsleie Langhus, nedre del av intervall","Akershus Eiendom, Halvårsrapport høst 2026 (logistikkart)",verifisert
+markedsleie_langhus_hoy,1700,NOK/m2/år,"Markedsleie Langhus, øvre del av intervall; «rundt NOK 1 700» i etablerte parker som Berger og Langhus","Akershus Eiendom, Halvårsrapport høst 2026",verifisert
+markedsleie_prime_oslo,2000,NOK/m2/år,"Moderne logistikk i Oslo-regionen","Akershus Eiendom, Halvårsrapport høst 2026",verifisert
+snittleie_arealstatistikk,1445,NOK/m2/år,"Gjennomsnittlig lagerleie (Arealstatistikk), A-kategori 2 030","DNB Næringsmegling, sektoroppdatering lager og logistikk 21.9.2026",verifisert
+prime_yield_ae,0.0525,andel,"Prime yield lager/logistikk per august 2026","Akershus Eiendom, Halvårsrapport høst 2026",verifisert
+prime_yield_dnb,0.0550,andel,"Prime yield lager/logistikk, uendret neste 12 mnd","DNB Næringsmegling 21.9.2026",verifisert
+prime_yield_catella,0.0540,andel,"Oslo prime yield logistikk Q2 2026 (netto)","Catella Logistics Map Q2 2026",verifisert
+pef_netto_yield,0.058,andel,"Netto yield PEF-porteføljen per siste verdivurdering (39 bygg, vektet leietid 7,3 år)","PEF kvartalsrapport Q3 2026",verifisert
+pef_markedsyield,0.062,andel,"Markedsyield PEF-porteføljen","PEF kvartalsrapport Q3 2026",verifisert
+pef_leie_snitt,1294,NOK/m2/år,"PEF: 622 mill. kr leie / 480 823 kvm (egen beregning)","PEF kvartalsrapport Q3 2026",verifisert
+statsobligasjon_10y,0.04444,andel,"10-årig statsobligasjon 29.10.2026","Norges Bank, GOVT_GENERIC_RATES",verifisert
+styringsrente,0.045,andel,"Styringsrente etter rentemøtet 23.9.2026","Norges Bank, PPR 3/2026",verifisert
+bankrente_naeringseiendom,0.062,andel,"Gjennomsnittlig bankrente for næringseiendom høsten 2026","Newsec Property Outlook høst 2026",verifisert
+ledighet_oslo_logistikk,0.043,andel,"Ledighet logistikk Stor-Oslo Q2 2026","Akershus Eiendom, Halvårsrapport høst 2026",verifisert
+eierkostnad_skatteetaten,0.10,andel av brutto leie,"Standard eierkostnad ved formuesverdsettelse av utleid næringseiendom (sjablong, ikke markedsdata)","Skatteetaten",konvensjon

@@ -1,0 +1,8 @@
+Dato,Type,Beløp,Kilde
+2026-03-31,VEK ved start,-10326.711002,"VEK 31.03.2026, Q1 2026-rapporten s. 6"
+2026-04-01,Utbetaling (utbytte),125,"Utbytte NOK 125 mill. utbetalt 1. april (Q2-rapporten s. 6)"
+2026-04-01,Innkalling (reinvestert utbytte),-85,"Om lag 68 % reinvestert = NOK 85 mill. (Q2-rapporten s. 6); antatt samme dato som utbetalingen"
+2026-06-26,Innkalling (ny kapital),-392,"Innkalt kapital økte fra 8 599 til 9 076 (+477) i Q2; 477 − 85 reinvestert = 392, antatt innkalt ved avsluttet kapitalinnhenting 26. juni (Q2-rapporten s. 6)"
+2026-07-01,Utbetaling (utbytte),125,"Utbytte NOK 125 mill. utbetalt 1. juli (Q3-rapporten s. 6)"
+2026-07-01,Innkalling (reinvestert utbytte),-85,"Om lag 68 % reinvestert = NOK 85 mill.; innkalt kapital økte fra 9 076 til 9 161 (+85) i Q3"
+2026-09-30,VEK ved slutt,10911.214141,"VEK 30.09.2026, Q3 2026-rapporten s. 6"

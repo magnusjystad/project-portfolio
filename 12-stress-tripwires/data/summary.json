@@ -1,0 +1,15 @@
+{
+  "asof": "2026-10-07",
+  "score": {
+    "fired": 0,
+    "near": 4,
+    "ok": 13,
+    "no new data": 0,
+    "total": 17
+  },
+  "frequency": {
+    "Business days since 2007": 5158,
+    "Share with at least one fired": 0.12718107793718494,
+    "Share with three or more fired": 0.009305932531989143
+  }
+}

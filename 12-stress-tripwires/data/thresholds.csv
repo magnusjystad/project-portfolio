@@ -1,0 +1,12 @@
+id,tripwire,series,kind,unit,near,fire,share of days at or beyond near,share of days at or beyond fire,calibration,observations,source
+1,Funding: SOFR minus IORB,SOFR - IORB (bp),level,bp,7.000000000000028,20.660000000000064,0.05219638242894057,0.0103359173126615,2018-04-03 – 2025-12-31,1935,"NY Fed SOFR; Fed IORB (IOER before 29 Jul 2021), via FRED"
+2,Funding: Standing Repo Facility usage,SRF usage ($bn),level,$bn,0.04579999999999995,4.72804000000002,0.05067873303167421,0.01085972850678733,2021-07-28 – 2025-12-31,1105,"NY Fed repo operations (FRED RPONTSYD), since 28 Jul 2021"
+3,Rates volatility: MOVE index,MOVE,given,index,117.0,130.0,0.1606924287462843,0.08497989158943871,2002-11-12 – 2025-12-31,5719,ICE BofA MOVE index (Yahoo Finance ^MOVE)
+4,"US 30-year yield, 20-day rise",UST 30y (%),speed,pp,0.45999999999999996,0.8200000000000003,0.0505166475315729,0.010414958176152206,1977-03-16 – 2025-12-31,12194,US Treasury constant-maturity 30y (FRED DGS30)
+5,"High-yield spread, 20-day widening",HY OAS (%),speed,pp,0.4940000000000009,1.0136999999999998,0.051418439716312055,0.010638297872340425,2023-11-06 – 2025-12-31,564,ICE BofA US High Yield OAS (FRED BAMLH0A0HYM2; 3 years only)
+6,"Leveraged funds' Treasury futures shorts, weekly change",CFTC lev. shorts ($bn),down,%,-8.831823845334604,-12.885735163081234,0.05086848635235732,0.011166253101736972,2010-07-27 – 2025-12-30,806,"CFTC Traders in Financial Futures, six CBOT Treasury contracts"
+7,Fed central-bank swap lines outstanding,"Fed swap lines ($m, weekly)",level,$m,111391.29999999965,475239.74000000017,0.05070656691604322,0.010806317539484621,2002-12-18 – 2025-12-31,1203,Federal Reserve H.4.1 (FRED SWPT)
+8,"USD/JPY, 20-day move either way",USD/JPY,absspeed,%,6.21260963005195,8.936591186806968,0.05005448601525608,0.010025426807119505,1971-02-01 – 2025-12-31,13765,Fed H.10 noon buying rate (FRED DEXJPUS)
+9,JGB 30-year yield,JGB 30y (%),given,%,4.05,4.5,0.0,0.0,1999-09-02 – 2025-12-30,6452,Ministry of Finance Japan benchmark yields
+10,"Brent crude futures, 20-day rise",Brent futures ($),speed,%,15.025082618486586,23.895735188698772,0.050164293537787515,0.010076670317634174,2007-08-27 – 2025-12-31,4565,ICE Brent front-month futures (Yahoo Finance BZ=F)
+11,Equity volatility: VIX,VIX,level,index,33.04,46.81620000000002,0.05015398152221733,0.010008798944126705,1990-01-02 – 2025-12-31,9092,Cboe VIX (FRED VIXCLS)

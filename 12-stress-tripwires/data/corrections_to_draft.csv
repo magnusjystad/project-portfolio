@@ -1,0 +1,22 @@
+item,draft (7 Oct note),verified,source
+1 SOFR vs IORB,SOFR 3.89% vs IORB 3.90% = −1bp (5 Oct),"Correct for 5 Oct; latest is 6 Oct: SOFR 3.90% = IORB, 0bp",NY Fed; FRED IORB
+1 SRF rate,4.00%,Correct: minimum bid rate = top of the 3.75–4.00% target range,NY Fed
+2 Standing repo usage,$0 (6 Oct); $1.2bn at quarter-end,Correct ($0.0bn on 6 Oct; $2m on 5 and 7 Oct; $1.2bn on 30 Sep),FRED RPONTSYD
+3 MOVE,"~116 (6 Oct), highest since Apr 2025; baseline ~102","Daily closes: 113.6 on 5 Oct, 105.2 on 6 Oct. ~116 is CoinDesk's rounded figure. 113.6 is not the highest since Apr 2025: 115.0 on 26 Mar 2026 was higher (Yahoo). Baseline 101.8 (28 Sep) correct",Yahoo ^MOVE; CoinDesk 6 Oct
+4 US 10y / 30y,5.27% / 5.64% (6 Oct); 30y 5.66% on 5 Oct; baseline 5.24 / 5.56,Correct (baseline = 28 Sep values),"FRED DGS10, DGS30"
+5 HY spread,"3.12% (5 Oct), baseline 2.93%, +19bp","Stale: 3.03% on 6 Oct. Baseline 2.93% is 25 Sep (30 Sep was 3.12%), so the change is +10bp on 25 Sep, −9bp on 30 Sep",FRED BAMLH0A0HYM2
+6 Lev. fund UST shorts,"≈$1.08tn (29 Sep), −1% w/w; baseline ≈$1.09tn","Correct: $1,078.7bn vs $1,090.1bn, −1.05% (face value, six CBOT contracts)",CFTC TFF
+7 Fed swap lines,$207m (30 Sep); baseline $72m,Correct; baseline is 23 Sep,FRED SWPT
+8 USD/JPY,157.81 (2 Oct),Correct (Fed H.10); market rate on 6 Oct ~158.0,FRED DEXJPUS; Yahoo
+9 JGB 30y,"4.22% (7 Oct), +25bp in a month; baseline 4.12%",MoF has 4.168% on 6 Oct; 7 Oct not yet published (live quotes ~4.21–4.23%). Change over a month: +16bp from 4.009% (7 Sep) to 6 Oct; +25bp is not supported by MoF data. Baseline 4.122% (28 Sep) correct,MoF Japan
+10 Brent,"~$100.9 (7 Oct), baseline ~$100","Correct for front-month futures (100.85 intraday 7 Oct; 100.58 close 6 Oct); baseline 105.3 on 28 Sep, so ~$100 is not the 28 Sep level. Dated Brent spot (EIA) is far higher: $125.44 on 6 Oct",Yahoo BZ=F; FRED DCOILBRENTEU
+11 VIX,"15.52 (5 Oct), baseline ~16",Stale: 15.01 on 6 Oct,FRED VIXCLS
+12 Private credit,"Fitch 6.3% record; KKR K-FITS paid 5.06% in full, 6 Oct","Correct; KKR news was 5 Oct (Bloomberg), 6 Oct is the syndication",Bloomberg
+13 Failures,"Nano Banc ($736m) failed 25 Sep, before the 30 Sep baseline","Facts correct. The market baselines are 23–28 Sep values, so 25 Sep is not clearly before the baseline; under the rule used here a $736m failure is below the $1bn near line anyway",FDIC
+15 NT private credit,Ares 13.1 / Apollo 14.7 / HPS 11.5% (baseline),"Correct, these are Q3 2026 requests, all prorated to 5%",Reuters
+16 GPU debt,Nebius raised GPU prices up to 21% from 1 Oct,Correct (17–21% on selected Nvidia GPUs); spot H100 rental indices fell in early October,Reuters; Ornn
+Calendar,Mid-October 3/10/30-year auctions,"Wrong: 3y 6 Oct, 10y 7 Oct, 30y 8 Oct (settle 15 Oct)",US Treasury
+Calendar,Q3 bank earnings start mid-October,Correct: JPMorgan 13 Oct,JPMorgan IR
+Calendar,"FOMC 27–28 Oct, ~25% chance of a hike",Date correct; hike odds about 18–20% (CNBC 2 Oct: 18%),CNBC
+Calendar,UK budget 28 Oct; BoE hike ~85% for early November,Correct; MPC decision 5 Nov,Marc to Market; HSBC via FXStreet
+Calendar,11 Dec funding deadline; 31 Dec clearing deadline,Correct: continuing resolution expires 11 Dec; SEC cash-Treasury clearing 31 Dec 2026 (repo 30 Jun 2027),White House; SIFMA

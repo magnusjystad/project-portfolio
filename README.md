@@ -14,3 +14,8 @@ Finance and investment analysis projects. Each folder has its own README with th
 | 08 | [Manager selection: three global equity funds](08-manager-selection) | Which of three global equity funds should we hold, or does none earn its fee over the MSCI ACWI ETF? |
 | 09 | [Risk dashboard: Northbridge portfolio](09-northbridge-risk-dashboard) | How much can the Northbridge portfolio lose in a day, a crisis or a shock, and which VaR model can be trusted? |
 | 10 | [Yield curve model and bond scenario tool](10-yield-curve-scenarios) | How do a bullet, a barbell and a ladder react to curve shifts, and what does the barbell's convexity cost in carry? |
+| 11 | [Text as data: replicating "Lazy Prices"](11-lazy-prices) | Do S&P 100 companies that change the wording of their 10-K a lot underperform those that barely change it? |
+| 12 | [Market stress tripwires](12-stress-tripwires) | Is the financial system bending or breaking? A weekly check of 17 tripwires. |
+| 13 | [Kvartalsrapport: gjenbrukbar investorrapport](13-kvartalsrapport-mal) *(Norwegian)* | A reusable quarterly investor report template for a property fund. |
+| 14 | [Energi- og klimakartlegging av ti næringsbygg](14-energi-klima-portefolje) *(Norwegian)* | Energy use, EU taxonomy and CRREM alignment of ten commercial buildings, with retrofit costs and payback. |
+| 15 | [Investeringscase: Fugleåsen 7, Langhus](15-logistikk-investeringscase) *(Norwegian)* | What should we bid for a logistics building near Oslo, and what return does it give? |

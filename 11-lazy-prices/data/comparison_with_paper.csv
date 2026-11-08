@@ -1,0 +1,12 @@
+,"Cohen, Malloy & Nguyen (2020)",This replication
+Sample,"All US firms with 10-K/10-Q text, 1995–2014","Current S&P 100 (94 firms with usable pairs), returns Jan 2014 – Sep 2026"
+Documents,"86,965 10-Ks + 258,271 10-Qs",1313 original 10-Ks (FY2012–2025)
+Text,Full 10-K and 10-Q,Item 1A + Item 7 of the 10-K
+Holding,"Enter the month after filing, hold 3 months","Most recent 10-K signal, re-ranked monthly"
+Factor model for alpha,"Market, size, value, momentum, liquidity",Fama-French 5 + momentum
+Median cosine similarity,0.947,0.985
+EW Q5−Q1 excess return (monthly),0.31% (t = 3.13),0.29% (t = 1.26)
+EW Q5−Q1 alpha (monthly),0.32% (t = 4.21),0.20% (t = 0.84)
+VW Q5−Q1 alpha (monthly),0.34% (t = 2.53),-0.33% (t = -1.23)
+Fama-MacBeth coefficient on similarity (with controls),0.31 (t = 2.51),10.85 (t = 2.64)
+"Same, per one standard deviation of similarity",≈0.06% a month (0.31 × SD 0.191),0.21% a month (t = 2.89)
