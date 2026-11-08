@@ -1,4 +1,4 @@
-# 19 · Investeringscase: Fugleåsen 7, Langhus
+# 15 · Investeringscase: Fugleåsen 7, Langhus
 
 ## Spørsmål
 Hva bør vi by for et reelt logistikkbygg i Oslo-området, og hvilken avkastning gir det? Caset er Fugleåsen 7 på Langhus: 21 012 m², utleid til Norsk Lastbærer Pool AS (NLP) og eid av Pareto Eiendomsfellesskap.

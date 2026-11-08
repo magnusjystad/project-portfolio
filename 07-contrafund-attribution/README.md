@@ -1,4 +1,4 @@
-# 08 · Skill or exposure? Performance attribution of Fidelity Contrafund
+# 07 · Skill or exposure? Performance attribution of Fidelity Contrafund
 
 ## Question
 Do Fidelity Contrafund's (FCNTX) results against the S&P 500 come from stock-picking skill, or from factor and sector exposure?

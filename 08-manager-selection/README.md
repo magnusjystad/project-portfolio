@@ -1,4 +1,4 @@
-# 09 · Manager selection: three global equity funds vs. the index
+# 08 · Manager selection: three global equity funds vs. the index
 
 ## Question
 Which of Capital Group New Perspective (ANWPX), Dodge & Cox Global Stock (DODWX) and T. Rowe Price Global Stock (PRGSX) should we hold, or does none of them earn its fee over the iShares MSCI ACWI ETF?

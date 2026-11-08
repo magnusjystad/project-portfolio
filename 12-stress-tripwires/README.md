@@ -1,4 +1,4 @@
-# 16 · Market stress tripwires: weekly check
+# 12 · Market stress tripwires: weekly check
 
 ## Question
 Is the financial system bending or breaking? This project scores 17 tripwires (eleven market gauges and six events) as of 7 October 2026. Each market trigger is set from the gauge's own history.

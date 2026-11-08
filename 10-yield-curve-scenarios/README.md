@@ -1,4 +1,4 @@
-# 11 · Yield curve model and bond portfolio scenario tool
+# 10 · Yield curve model and bond portfolio scenario tool
 
 ## Question
 How do a 7-year bullet, a duration-matched 2/30-year barbell and a 1–10-year ladder ($100m each, priced off the 30 September 2026 US Treasury curve) react to curve shifts, and what does the barbell's convexity cost in carry?

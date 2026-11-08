@@ -1,4 +1,4 @@
-# 05 · Strategic asset allocation and IPS: Northbridge University Endowment
+# 04 · Strategic asset allocation and IPS: Northbridge University Endowment
 
 ## Question
 Which strategic allocation of the 11 shared ETFs gives a $2bn perpetual endowment (fictional client) that spends 4.5% a year the best chance of preserving its real value, while keeping expected volatility at or below 12% and the probability of a one-year loss worse than −20% at or below 5%?

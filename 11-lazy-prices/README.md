@@ -1,4 +1,4 @@
-# 15 · Text as data: replicating "Lazy Prices" on the S&P 100
+# 11 · Text as data: replicating "Lazy Prices" on the S&P 100
 
 ## Question
 Do S&P 100 companies that change the wording of their 10-K a lot underperform those that barely change it, as Cohen, Malloy and Nguyen (2020) found for all US firms, and do dictionary or FinBERT tone scores add to the signal?

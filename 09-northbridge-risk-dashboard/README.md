@@ -1,7 +1,7 @@
-# 10 · Risk dashboard for the Northbridge portfolio
+# 09 · Risk dashboard for the Northbridge portfolio
 
 ## Question
-How much can the $2bn Northbridge portfolio (fictional; the Project 5 strategic allocation) lose in a day, in a crisis and in a hypothetical shock, and which VaR model can the investment committee trust?
+How much can the $2bn Northbridge portfolio (fictional; the Project 4 strategic allocation) lose in a day, in a crisis and in a hypothetical shock, and which VaR model can the investment committee trust?
 
 ## Answer
 One-day 99% VaR on 30 September 2026 is $35.6m (1.78% of NAV) on historical simulation, the best-calibrated model since 2010 (41 exceptions vs. 42.1 expected). A replay of the global financial crisis on today's weights would cost 38.1% ($761m).
@@ -10,7 +10,7 @@ One-day 99% VaR on 30 September 2026 is $35.6m (1.78% of NAV) on historical simu
 | Item | Source | File |
 |---|---|---|
 | Daily adjusted closes, 11 ETFs, May 2007 – 30 Sep 2026 | Yahoo Finance via `yfinance` | `data/etf_prices_daily.csv` |
-| Portfolio weights: EEM 19%, TLT 15%, HYG 16%, VNQ 40%, GLD 10% | Project 5 final strategic allocation | `data/policy_weights.csv` |
+| Portfolio weights: EEM 19%, TLT 15%, HYG 16%, VNQ 40%, GLD 10% | Project 4 final strategic allocation | `data/policy_weights.csv` |
 | Effective duration, convexity, OAS and yield of TLT, HYG, IEF, TIP, LQD | Each fund's page on ishares.com (values as of 5–6 Oct 2026, the nearest available to 30 Sep) | `data/ishares_bond_characteristics.csv` |
 
 ## Method

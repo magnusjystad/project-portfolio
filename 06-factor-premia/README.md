@@ -1,4 +1,4 @@
-# 07 · Factor premia since 1963, and do factor ETFs deliver them?
+# 06 · Factor premia since 1963, and do factor ETFs deliver them?
 
 ## Question
 How large and reliable have the US equity factor premia been since 1963, and do five popular iShares factor ETFs actually carry the factor exposure their names promise?

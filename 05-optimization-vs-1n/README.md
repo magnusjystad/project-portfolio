@@ -1,4 +1,4 @@
-# 06 · Does optimization beat 1/N? A portfolio construction backtest
+# 05 · Does optimization beat 1/N? A portfolio construction backtest
 
 ## Question
 Does any of five standard portfolio construction methods beat a simple equal-weight (1/N) portfolio of 11 multi-asset ETFs after transaction costs, as DeMiguel, Garlappi and Uppal (2009) ask?

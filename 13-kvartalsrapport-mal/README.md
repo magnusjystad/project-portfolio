@@ -1,4 +1,4 @@
-# 17 · Kvartalsrapport: gjenbrukbar investorrapport
+# 13 · Kvartalsrapport: gjenbrukbar investorrapport
 
 ## Spørsmål
 Hvordan ser en investorrapport for et eiendomsfond ut når den bygges fra en mal som kan oppdateres raskt? Eksempelet er Pareto Eiendomsfellesskap IS/AS (PEF) i 3. kvartal 2026. Rapporten dekker porteføljestatus, leieinntekter, utleiegrad og avkastning (direkteavkastning, IRR og multipler).

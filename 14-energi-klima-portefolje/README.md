@@ -1,4 +1,4 @@
-# 18 · Energi- og klimakartlegging av ti næringsbygg
+# 14 · Energi- og klimakartlegging av ti næringsbygg
 
 ## Spørsmål
 Hvor står ti næringsbygg i Pareto Eiendomsfellesskap (PEF) og PEF II på energibruk og energimerke? Hvordan ligger de an mot EU-taksonomien og CRREM-banene? Hvilke tiltak trengs, hva koster de, og hvor lang er tilbakebetalingstiden?
